@@ -1,3 +1,7 @@
+// Authors:
+// Nestor Medina, email: n3ssmi@gmail.com
+// Mar Bazua, email: marbazua@gmail.com
+
 package main
 
 import (
