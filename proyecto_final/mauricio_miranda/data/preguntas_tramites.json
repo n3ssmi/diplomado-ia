@@ -1,0 +1,940 @@
+{
+  "1":[
+  {
+    "query": "¿Cuándo puedo darme de baja o alta en una UEA?",
+    "response": "Puedes hacerlo durante la primera semana del trimestre. Se asigna un día específico para las bajas y otro para las altas. Las fechas exactas se publican en la sección de avisos de la página de Sistemas Escolares."
+  },
+  {
+    "query": "¿Cómo doy de baja una UEA?",
+    "response": "Ingresa al Módulo de Información Escolar y selecciona 'Baja de Inscripción a Evaluación Global'. Ahí elige la UEA que ya no deseas cursar y confirma la baja. El cambio se aplica de inmediato."
+  },
+  {
+    "query": "¿Cómo solicito el alta en una UEA?",
+    "response": "Entra al Módulo de Información Escolar y ve a 'Solicitud de Alta a UEA-Grupo'. Ahí podrás ver las UEA disponibles para ti, tanto obligatorias como optativas, y seleccionar las que quieras cursar. Recuerda que solo aparecerán las UEA para las que cumples los requisitos y haya cupo disponible."
+  },
+  {
+    "query": "¿Qué requisitos debo cumplir para darme de alta en una UEA?",
+    "response": "Debes cumplir con los prerrequisitos de la UEA, que esté dentro de tu plan de estudios, no haberla reprobado dos veces y que haya cupo disponible. Además, si es una optativa, debes haberla seleccionado previamente en las fechas correspondientes."
+  },
+  {
+    "query": "¿Qué pasa si no hay cupo en la UEA que quiero?",
+    "response": "Si no hay cupo, puedes intentar en la segunda vuelta de reinscripción o esperar al proceso de altas de la primera semana del trimestre. También puedes contactar a tu coordinador de licenciatura para ver si hay opciones adicionales."
+  },
+  {
+    "query": "¿Puedo darme de alta en una UEA optativa que no seleccioné previamente?",
+    "response": "No, para poder darte de alta en una UEA optativa, debes haberla seleccionado previamente en las fechas establecidas. Si no lo hiciste, no aparecerá como opción en el sistema."
+  },
+  {
+    "query": "¿Cómo veo si hay cupo en una UEA?",
+    "response": "Dentro del Módulo de Información Escolar, en el menú 'Horario/UEA', puedes ingresar la clave de la UEA y verás los grupos disponibles junto con el cupo y número de inscritos."
+  },
+  {
+    "query": "¿Qué pasa si no alcanzo cupo en ninguna UEA durante la reinscripción?",
+    "response": "Si no lograste inscribirte en ninguna UEA, puedes participar en la segunda vuelta de reinscripción o en el proceso de altas de la primera semana del trimestre. Ahí podrás solicitar otros grupos o UEA que tengan cupo disponible."
+  },
+  {
+    "query": "¿Es seguro que me asignen la UEA que solicito en el proceso de altas?",
+    "response": "No es seguro. La asignación depende del cupo disponible y de tu rendimiento académico en el trimestre anterior, incluyendo las evaluaciones de recuperación que hayas presentado."
+  },
+  {
+    "query": "¿Qué hago si necesito ayuda con el proceso de altas y bajas?",
+    "response": "Puedes contactar a la Coordinación de Sistemas Escolares o a tu coordinador de licenciatura. Sus datos de contacto están disponibles en la sección de directorio de la página de Sistemas Escolares."
+  }
+],
+  "2":[
+  {
+    "query": "¿Qué es una renuncia a una UEA?",
+    "response": "Es el proceso para dejar de cursar una materia que ya habías inscrito. Al renunciar, esa materia no contará como cursada ni afectará tu historial académico. Solo puedes renunciar a una materia por trimestre y debe hacerse en la quinta semana de clases."
+  },
+  {
+    "query": "¿Cuándo puedo renunciar a una materia?",
+    "response": "La renuncia se puede hacer únicamente durante la quinta semana del trimestre, de lunes a viernes. Es importante revisar el calendario escolar para conocer las fechas exactas."
+  },
+  {
+    "query": "¿Cómo renuncio a una materia?",
+    "response": "Debes ingresar al Módulo de Información Escolar y seleccionar la opción 'Renuncia a UEA'. Ahí eliges la materia que deseas dejar, indicas el motivo de la renuncia y confirmas el trámite. La renuncia se procesa de inmediato."
+  },
+  {
+    "query": "¿Tiene algún costo renunciar a una materia?",
+    "response": "No, el trámite de renuncia a una materia es completamente gratuito."
+  },
+  {
+    "query": "¿Puedo renunciar a más de una materia en el mismo trimestre?",
+    "response": "No, solo puedes renunciar a una materia por trimestre. Esta es una regla establecida en el reglamento de estudios superiores."
+  },
+  {
+    "query": "¿Qué pasa si me equivoqué al renunciar a una materia?",
+    "response": "Si cometiste un error al renunciar, debes acudir al área de informes de Sistemas Escolares con el comprobante de renuncia impreso y solicitar la cancelación. También puedes enviar un correo durante la quinta semana a cses@xanum.uam.mx adjuntando el comprobante en PDF y solicitando la cancelación."
+  },
+  {
+    "query": "¿Qué consecuencias tiene renunciar a una materia?",
+    "response": "Renunciar a una materia puede afectar tu rendimiento académico, ya que dejas de cursar una materia que te corresponde y no cubres sus créditos. Esto podría volverte un alumno irregular y afectar tu proceso de reinscripción en el siguiente trimestre."
+  },
+  {
+    "query": "¿Dónde puedo verificar que la renuncia se realizó correctamente?",
+    "response": "Después de realizar la renuncia, puedes verificar que la materia ya no aparece en tu horario o en el comprobante de reinscripción dentro del Módulo de Información Escolar."
+  }
+],
+  "3":[
+  {
+    "query": "¿Qué es la encuesta de opinión del alumnado?",
+    "response": "Es una encuesta que se aplica durante las semanas 7 y 8 del trimestre para que los estudiantes den su opinión sobre las materias que están cursando. Se realiza en línea a través del Módulo de Información Escolar y es confidencial."
+  },
+  {
+    "query": "¿Cuándo se debe llenar la encuesta?",
+    "response": "La encuesta debe completarse durante las semanas 7 y 8 del trimestre. Es importante revisar el calendario escolar para conocer las fechas exactas."
+  },
+  {
+    "query": "¿Cómo accedo a la encuesta?",
+    "response": "Debes ingresar al Módulo de Información Escolar y seleccionar la opción 'ENCUESTA'. Ahí verás las materias en las que estás inscrito y podrás llenar la encuesta correspondiente a cada una."
+  },
+  {
+    "query": "¿Qué necesito para llenar la encuesta?",
+    "response": "Necesitas estar inscrito en la materia, contar con tu contraseña de acceso al Módulo de Información Escolar y que el nombre del profesor esté registrado en el sistema."
+  },
+  {
+    "query": "¿Qué tipo de preguntas incluye la encuesta?",
+    "response": "La encuesta incluye preguntas sobre la organización de la materia, la práctica docente, tu autoevaluación y la evaluación global. También puedes dejar comentarios o sugerencias para el profesor."
+  },
+  {
+    "query": "¿Es obligatorio llenar la encuesta?",
+    "response": "Aunque no es obligatorio, se recomienda mucho que la llenes, ya que tus opiniones ayudan a mejorar la calidad de la enseñanza."
+  },
+  {
+    "query": "¿Tiene algún costo llenar la encuesta?",
+    "response": "No, llenar la encuesta es completamente gratuito."
+  },
+  {
+    "query": "¿Puedo llenar la encuesta desde mi celular?",
+    "response": "Sí, puedes acceder al Módulo de Información Escolar desde tu celular y llenar la encuesta sin problema."
+  },
+  {
+    "query": "¿Qué pasa si no lleno la encuesta?",
+    "response": "Si no llenas la encuesta, no podrás dar tu opinión sobre las materias y profesores, lo que puede limitar las mejoras en la enseñanza."
+  },
+  {
+    "query": "¿Puedo modificar mis respuestas después de enviar la encuesta?",
+    "response": "No, una vez que envías la encuesta, no puedes modificar tus respuestas. Asegúrate de revisar bien antes de enviarla."
+  }
+],
+  "4":[
+  {
+    "query": "¿Qué son las materias optativas?",
+    "response": "Son materias que puedes elegir según tus intereses y que complementan tu formación. Hay tres tipos: de tu carrera, de tu división y de otras divisiones."
+  },
+  {
+    "query": "¿Cuándo puedo elegir mis optativas?",
+    "response": "Debes hacerlo entre las semanas 10 y 12 del trimestre. Las fechas exactas están en el calendario de reinscripción que publica Sistemas Escolares."
+  },
+  {
+    "query": "¿Cómo elijo mis optativas?",
+    "response": "Ingresa al Módulo de Información Escolar y selecciona 'Elección de Optativas'. Ahí verás las materias disponibles para ti."
+  },
+  {
+    "query": "¿Qué requisitos debo cumplir para elegir una optativa?",
+    "response": "Debes haber cursado las materias previas necesarias, que la optativa esté en tu plan de estudios, no haberla reprobado dos veces y que esté programada para el próximo trimestre."
+  },
+  {
+    "query": "¿Qué pasa si no elijo mis optativas en las fechas indicadas?",
+    "response": "Si no las eliges a tiempo, no podrás inscribirte en ellas durante la reinscripción y no aparecerán como opción en el sistema."
+  },
+  {
+    "query": "¿Puedo elegir cualquier optativa?",
+    "response": "Solo puedes elegir las que estén disponibles para tu carrera y para las que cumplas los requisitos. Además, no puedes seleccionar más de 15 materias por trimestre."
+  },
+  {
+    "query": "¿Dónde puedo ver las optativas que se ofrecerán el próximo trimestre?",
+    "response": "En el Módulo de Información Escolar, en la sección 'Horario/UEA', puedes consultar las materias programadas y sus horarios a partir de la semana 10 del trimestre."
+  },
+  {
+    "query": "¿Qué hago si la optativa que quiero no aparece en el sistema?",
+    "response": "Debes contactar a tu división antes de que termine el trimestre. Los correos son: CBI: cses@xanum.uam.mx, CSH: csere@xanum.uam.mx, CBS: csera@xanum.uam.mx."
+  },
+  {
+    "query": "¿Las optativas cuentan para mis créditos?",
+    "response": "Sí, las optativas suman créditos necesarios para completar tu carrera. Debes revisar tu plan de estudios para saber cuántos necesitas y de qué tipo."
+  },
+  {
+    "query": "¿Puedo cambiar mis optativas después de elegirlas?",
+    "response": "No, una vez que las eliges en el sistema, no puedes modificarlas. Asegúrate de revisar bien antes de confirmar tu selección."
+  }
+],
+  "5":[
+  {
+    "query": "¿Para qué sirve la credencial de estudiante?",
+    "response": "La credencial te identifica como alumno y te permite pagar servicios escolares y otros servicios que ofrece la universidad. También puedes abonar dinero a un monedero electrónico para realizar estos pagos."
+  },
+  {
+    "query": "¿Cómo recargo dinero en mi credencial?",
+    "response": "Puedes abonar dinero en efectivo en los cajeros ubicados en la planta baja del edificio 'C'. Solo necesitas acercar tu credencial al lector, ingresar tu NIP de cuatro dígitos y depositar la cantidad que desees. Recuerda que el cajero no da cambio."
+  },
+  {
+    "query": "¿Dónde puedo usar el saldo de mi credencial?",
+    "response": "El saldo de tu credencial se puede usar para pagar trámites escolares a través del Módulo de Información Escolar, así como servicios de CELEX, biblioteca, reproducción y diseño, y servicios integrados para el bienestar."
+  },
+  {
+    "query": "¿Qué pasa si pierdo mi credencial?",
+    "response": "Si pierdes tu credencial, el saldo que tenías estará seguro en la base de datos. Puedes solicitar una reposición, y la credencial anterior quedará inhabilitada, incluso si la recuperas después."
+  },
+  {
+    "query": "¿Cómo solicito una reposición de mi credencial?",
+    "response": "Para solicitar una reposición, debes imprimir y llenar la solicitud de servicios, pagar $60.00 en la caja de la unidad y entregar la solicitud en el área de informes de Sistemas Escolares. Luego, podrás recoger tu nueva credencial presentando el comprobante de la solicitud y una identificación."
+  },
+  {
+    "query": "¿Cada cuánto tiempo debo resellar mi credencial?",
+    "response": "La vigencia de tu credencial es de un año a partir de la fecha de expedición. Debes resellarla oportunamente cuando te corresponda realizar el pago de la cuota anual."
+  },
+  {
+    "query": "¿Cómo debo cuidar mi credencial?",
+    "response": "La credencial está hecha de PVC y tiene un chip electrónico. No debes enmicarla, doblarla, mojarla, perforarla, cortarla ni pegarle nada encima para evitar dañarla."
+  },
+  {
+    "query": "¿Puedo pagar servicios sin mi credencial?",
+    "response": "Sí, en caso de no tener tu credencial, puedes realizar los pagos directamente en la caja de la unidad."
+  }
+],
+  "6":[
+  {
+    "query": "¿Qué es la rectificación de calificación?",
+    "response": "Es un trámite para corregir errores en las calificaciones finales de una materia, ya sea de evaluación global o de recuperación. Si notas que tu calificación no es la correcta, puedes solicitar que se revise y se corrija."
+  },
+  {
+    "query": "¿Cuándo puedo pedir que se corrija una calificación?",
+    "response": "Para evaluaciones globales, puedes solicitar la corrección hasta el último día de reinscripción del siguiente trimestre. Para evaluaciones de recuperación, tienes cinco días hábiles después de que se publiquen las calificaciones."
+  },
+  {
+    "query": "¿Cómo inicio el proceso para corregir una calificación?",
+    "response": "Primero, revisa tu kardex en el Módulo de Información Escolar. Si encuentras un error, habla con tu profesor. Él debe llenar un formato de rectificación y enviarlo por correo a su división académica, copiándote en el correo para que estés enterado."
+  },
+  {
+    "query": "¿Qué información debe incluir el profesor en el correo de rectificación?",
+    "response": "El correo debe contener: número de acta, tu matrícula, tu nombre, división y licenciatura, clave y nombre de la materia, grupo, número de empleado y nombre del profesor, calificación asignada y la calificación correcta."
+  },
+  {
+    "query": "¿Qué pasa después de que el profesor envía el correo?",
+    "response": "La Secretaría Académica o la Coordinación de Docencia revisan y aprueban el formato. Luego, lo envían a la Sección de Registro Académico, que genera el acta y la sube al sistema. El profesor debe firmarla para que la calificación corregida aparezca en tu kardex."
+  },
+  {
+    "query": "¿Cuánto tiempo tarda en reflejarse la calificación corregida en mi kardex?",
+    "response": "Generalmente, entre dos y tres días después de que el profesor firma el acta. Si pasa más tiempo, puedes recordarle al profesor que firme el acta para que el cambio se procese."
+  },
+  {
+    "query": "¿Tiene algún costo corregir una calificación?",
+    "response": "No, el trámite de rectificación de calificación es completamente gratuito."
+  },
+  {
+    "query": "¿Qué hago si el profesor no está de acuerdo en corregir la calificación?",
+    "response": "Si el profesor no acepta que hay un error, puedes solicitar una revisión de calificación. Para ello, debes presentar un escrito al Director de tu División, quien formará una comisión para revisar tu evaluación y decidir si procede la corrección."
+  }
+],
+  "7":[
+  {
+    "query": "¿Qué es una revisión de calificación?",
+    "response": "Es un proceso que puedes iniciar si no estás de acuerdo con la calificación final de una materia y el profesor no acepta modificarla. Sirve para que una comisión revise tu evaluación y decida si debe cambiarse la calificación."
+  },
+  {
+    "query": "¿Cuándo puedo pedir una revisión de calificación?",
+    "response": "Para evaluaciones globales, puedes solicitarla hasta el último día de reinscripción del siguiente trimestre. Para evaluaciones de recuperación, tienes cinco días hábiles después de que se publiquen las calificaciones."
+  },
+  {
+    "query": "¿Cómo solicito una revisión de calificación?",
+    "response": "Primero, revisa tu kardex en el Módulo de Información Escolar. Si ves una calificación con la que no estás de acuerdo y el profesor no acepta cambiarla, debes escribir una carta al Director de tu División explicando tu inconformidad y solicitando la revisión."
+  },
+  {
+    "query": "¿Qué pasa después de que solicito la revisión?",
+    "response": "El Director de tu División formará una comisión de tres profesores del área correspondiente. Esta comisión revisará tu evaluación y decidirá si la calificación debe cambiarse. Te informarán por escrito la decisión."
+  },
+  {
+    "query": "¿Cuánto tiempo tarda la comisión en decidir?",
+    "response": "La comisión tiene tres días hábiles desde que se forma para revisar tu caso y tomar una decisión. Luego, el Director de la División te informará el resultado."
+  },
+  {
+    "query": "¿Tiene algún costo solicitar una revisión de calificación?",
+    "response": "No, este trámite es completamente gratuito."
+  },
+  {
+    "query": "¿Necesito llenar algún formato para solicitar la revisión?",
+    "response": "No, solo necesitas redactar una carta dirigida al Director de tu División explicando tu inconformidad y solicitando la revisión de la calificación."
+  },
+  {
+    "query": "¿Dónde puedo ver el resultado de la revisión?",
+    "response": "Después de que te informen la decisión, puedes consultar tu kardex en el Módulo de Información Escolar para ver si hubo algún cambio en tu calificación."
+  }
+],
+  "8":[
+  {
+    "query": "¿Qué es un cambio de carrera?",
+    "response": "Es cuando decides cambiarte de la licenciatura que estás estudiando a otra diferente. Puedes hacerlo hasta dos veces durante tus estudios, siempre y cuando haya cupo en la carrera que deseas y cumplas con los requisitos establecidos por la división correspondiente."
+  },
+  {
+    "query": "¿Cuándo puedo solicitar un cambio de carrera?",
+    "response": "Puedes solicitarlo entre la semana 1 y la semana 6 del trimestre, según el calendario escolar vigente. Es importante estar atento a las fechas para no perder la oportunidad."
+  },
+  {
+    "query": "¿Cómo solicito un cambio de carrera?",
+    "response": "Primero, consulta los lineamientos de tu división para conocer los requisitos específicos. Luego, solicita tu historial académico en el Módulo de Información Escolar. Después, contacta al coordinador de la carrera que te interesa para obtener su visto bueno. Si te lo otorgan, la división académica te proporcionará una carta de aceptación."
+  },
+  {
+    "query": "¿Necesito haber terminado el Tronco General para cambiarme de carrera?",
+    "response": "No necesariamente. Si el cambio es dentro de la misma unidad y división y aún no terminas el Tronco General, el cambio no se contará dentro de los dos permitidos. Sin embargo, esto depende de los lineamientos de cada división."
+  },
+  {
+    "query": "¿Tiene algún costo cambiarme de carrera?",
+    "response": "No, el trámite de cambio de carrera es gratuito."
+  },
+  {
+    "query": "¿Qué pasa con las materias que ya aprobé si me cambio de carrera?",
+    "response": "Las materias que tengan la misma clave en ambos planes de estudio se transferirán automáticamente. Si hay otras materias que consideras relevantes, puedes solicitar su acreditación siguiendo el instructivo correspondiente."
+  },
+  {
+    "query": "¿Cómo me reinscribo después de que me aprueban el cambio de carrera?",
+    "response": "Debes seguir el calendario de reinscripción publicado por Sistemas Escolares a partir de la semana 7. Asegúrate de pagar tus cuotas a tiempo y, si es necesario, elige tus materias optativas según el nuevo plan de estudios."
+  },
+  {
+    "query": "¿Dónde puedo encontrar los lineamientos para cambiarme de carrera?",
+    "response": "Puedes consultarlos en la sección de 'Lineamientos' de la página de Sistemas Escolares. Ahí encontrarás los requisitos específicos de cada división."
+  },
+  {
+    "query": "¿Qué hago si tengo dudas durante el proceso de cambio de carrera?",
+    "response": "Puedes contactar al coordinador de la carrera que te interesa o acudir al área de informes de Sistemas Escolares para recibir orientación y resolver tus dudas."
+  }
+],
+  "9":[
+  {
+    "query": "¿Qué es un cambio de división?",
+    "response": "Es cuando decides cambiarte a una carrera que pertenece a una división diferente, ya sea en la misma unidad o en otra. Para hacerlo, necesitas que haya cupo disponible y aprobar un examen que organiza el área de Admisión."
+  },
+  {
+    "query": "¿Cuándo puedo solicitar un cambio de división?",
+    "response": "Debes hacerlo durante la cuarta semana del trimestre, según el calendario escolar. Es importante estar atento a las fechas para no perder la oportunidad."
+  },
+  {
+    "query": "¿Cómo solicito un cambio de división?",
+    "response": "Primero, consulta si hay cupo en la carrera que te interesa. Luego, llena la solicitud de cambio de división, págala en la caja de tu unidad y entrégala en el área de informes de Sistemas Escolares con una identificación. También puedes enviarla por correo electrónico en formato PDF junto con el comprobante de pago y tu identificación escaneada."
+  },
+  {
+    "query": "¿Qué examen debo presentar para el cambio de división?",
+    "response": "Debes presentar un examen que organiza el área de Admisión entre las semanas 7 y 8 del trimestre. Te enviarán por correo electrónico la fecha, hora y modalidad del examen (presencial o virtual)."
+  },
+  {
+    "query": "¿Cuándo y dónde consulto los resultados del cambio de división?",
+    "response": "A partir de la semana 11 del trimestre, puedes consultar los resultados en la Coordinación de Sistemas Escolares de la unidad a la que solicitaste el cambio. Si eres de Iztapalapa, te enviarán un correo electrónico con la carta de aceptación si fuiste aprobado."
+  },
+  {
+    "query": "¿Cuánto cuesta solicitar un cambio de división?",
+    "response": "Para estudiantes mexicanos, el costo es de $5.40 pesos. Para estudiantes extranjeros, es de $34.00 pesos. El pago se realiza en la caja de la unidad o mediante el monedero electrónico de tu credencial."
+  },
+  {
+    "query": "¿Necesito haber terminado el Tronco General para solicitar el cambio?",
+    "response": "No, no es necesario haber concluido el Tronco General para solicitar un cambio de división. Puedes hacerlo desde el primer trimestre si así lo deseas."
+  },
+  {
+    "query": "¿Qué pasa si me aceptan en el cambio de división?",
+    "response": "Si te aceptan, deberás seguir el calendario de reinscripción publicado por Sistemas Escolares, pagar las cuotas correspondientes y realizar la selección de materias según el nuevo plan de estudios."
+  },
+  {
+    "query": "¿Qué sucede con las materias que ya aprobé si me cambio de división?",
+    "response": "Las materias que tengan la misma clave en ambos planes de estudio se transferirán automáticamente. Si hay otras materias que consideras relevantes, puedes solicitar su acreditación siguiendo el instructivo correspondiente."
+  },
+  {
+    "query": "¿Dónde puedo encontrar más información sobre el cambio de división?",
+    "response": "Puedes consultar la página de Sistemas Escolares en la sección de 'Cambio de División' para obtener más detalles y descargar la solicitud correspondiente."
+  }
+],
+  "10":[
+  {
+    "query": "¿Qué es un cambio de unidad?",
+    "response": "Es cuando decides cambiarte a otra sede de la universidad para seguir estudiando la misma carrera. Por ejemplo, si estudias en una unidad y quieres continuar la misma licenciatura en otra. Para hacerlo, necesitas haber terminado el Tronco General y que haya espacio disponible en la carrera que deseas."
+  },
+  {
+    "query": "¿Cuándo puedo solicitar un cambio de unidad?",
+    "response": "Puedes hacerlo entre la semana 1 y la semana 4 del trimestre, según el calendario escolar. Es importante estar atento a las fechas para no perder la oportunidad."
+  },
+  {
+    "query": "¿Cómo solicito un cambio de unidad?",
+    "response": "Primero, solicita tu historial académico en el Módulo de Información Escolar para verificar que hayas concluido el Tronco General. Luego, contacta a la división de la carrera en la unidad a la que deseas cambiarte para obtener su autorización. Si te la otorgan, te darán una carta de aceptación. Después, escribe al correo de la Coordinación de Sistemas Escolares de la unidad destino para recibir indicaciones sobre la documentación necesaria y la fecha de inscripción."
+  },
+  {
+    "query": "¿Tiene algún costo cambiarme de unidad?",
+    "response": "No, el trámite de cambio de unidad es gratuito."
+  },
+  {
+    "query": "¿Qué pasa con las materias que ya aprobé si me cambio de unidad?",
+    "response": "Debes solicitar la acreditación de las materias del Tronco General que cursaste en tu unidad de origen para que sean reconocidas en la nueva unidad. Esto se hace siguiendo el instructivo de Acreditación de Estudios."
+  },
+  {
+    "query": "¿Qué hago después de que me aprueban el cambio de unidad?",
+    "response": "Debes pagar las cuotas de reinscripción utilizando la línea de captura de tu unidad de origen y guardar el comprobante de pago. Luego, sigue las indicaciones que te dé la Coordinación de Sistemas Escolares de la nueva unidad para completar tu inscripción."
+  },
+  {
+    "query": "¿Dónde puedo encontrar más información sobre el cambio de unidad?",
+    "response": "Puedes consultar la página de Sistemas Escolares en la sección de 'Cambio de Unidad' para obtener más detalles y contactar a las divisiones correspondientes."
+  }
+],
+  "11":[
+  {
+    "query": "¿Qué necesito para estudiar otra carrera?",
+    "response": "Debes haber terminado tu primera carrera y tener buenas calificaciones: más 'MB' que 'S', o al menos 'B' en todas las materias. Además, debe haber espacio en la carrera que quieres y, si es de otra división, necesitas pasar un examen de admisión."
+  },
+  {
+    "query": "¿Cuándo puedo pedir estudiar otra carrera?",
+    "response": "Puedes hacerlo entre la semana 2 y la 7 del trimestre. Es importante revisar el calendario escolar para conocer las fechas exactas."
+  },
+  {
+    "query": "¿Cómo solicito estudiar otra carrera?",
+    "response": "Descarga y llena la 'Solicitud de Segunda Carrera' y págala en la caja de tu unidad. Luego, entre las semanas 2 y 7, envía la solicitud escaneada junto con una identificación a la Coordinación Divisional de Docencia correspondiente. Espera la carta de aceptación."
+  },
+  {
+    "query": "¿Qué hago después de que me aceptan?",
+    "response": "A partir de la semana 11, contacta a Registro Académico para obtener tu nueva matrícula. Luego, escribe a Servicios Escolares para saber qué documentos necesitas entregar, cómo obtener tu contraseña del módulo de información escolar y conocer las fechas de reinscripción."
+  },
+  {
+    "query": "¿Tengo que pagar algo para estudiar otra carrera?",
+    "response": "Sí, el trámite cuesta $5.40 pesos para estudiantes mexicanos y $34.00 pesos para extranjeros. El pago se realiza en la caja de la unidad o mediante el monedero electrónico de tu credencial."
+  },
+  {
+    "query": "¿Puedo usar materias de mi primera carrera en la segunda?",
+    "response": "Sí, después de inscribirte en la segunda carrera, puedes solicitar la acreditación de las materias que ya cursaste siguiendo el instructivo de Acreditación de Estudios."
+  },
+  {
+    "query": "¿Dónde encuentro el plan de estudios de la nueva carrera?",
+    "response": "Puedes imprimir el plan de estudios autorizado desde la página de la universidad en la sección de Licenciaturas y carreras en orden alfabético."
+  },
+  {
+    "query": "¿Cómo elijo mis materias en la nueva carrera?",
+    "response": "Consulta los horarios de las materias en el módulo de información escolar y escribe a la Delegada Escolar de tu División para solicitar asesoría y autorización de las materias a cursar."
+  },
+  {
+    "query": "¿Qué pasa si la carrera que quiero está en otra división?",
+    "response": "Además de los requisitos normales, deberás presentar y aprobar un examen de admisión para ser aceptado en la nueva división."
+  },
+  {
+    "query": "¿Hay un límite de tiempo para solicitar una segunda carrera después de terminar la primera?",
+    "response": "No, no hay un tiempo establecido para solicitar una segunda carrera después de concluir la primera."
+  }
+],
+  "12":[
+  {
+    "query": "¿Qué tipos de constancias puedo pedir?",
+    "response": "Puedes solicitar varios tipos de constancias, como la Constancia UAM, de inscripción, de calidad de alumno, de UEA con 4 NA, única, de vacaciones, de créditos aprobados con porcentaje, de créditos aprobados con promedio y porcentaje, historia académica vigente, historia académica con promedio y porcentaje de créditos, y para tramitar carta de pasante. Cada una tiene información específica y se puede solicitar en ciertos periodos."
+  },
+  {
+    "query": "¿Cuánto cuestan las constancias?",
+    "response": "Los costos varían según el tipo de constancia y si eres estudiante nacional o extranjero. Por ejemplo, la Constancia UAM cuesta $4.20 para nacionales y $21.00 para extranjeros. Otras constancias tienen costos desde $1.00 hasta $4.20 para nacionales y desde $5.00 hasta $21.00 para extranjeros."
+  },
+  {
+    "query": "¿Cuándo puedo solicitar una constancia?",
+    "response": "Depende del tipo de constancia. Algunas se pueden solicitar durante todo el año, excepto en periodos vacacionales de Sistemas Escolares, y otras solo en ciertas semanas del trimestre. Por ejemplo, la Constancia UAM se puede solicitar desde la apertura del primer comprobante de reinscripción hasta el último día de clases del trimestre."
+  },
+  {
+    "query": "¿Cómo solicito una constancia?",
+    "response": "Debes ingresar al Módulo de Información Escolar en la web, ir a la sección de 'Pago de Servicios', seleccionar la constancia que necesitas, confirmar la solicitud y recibirás la constancia por correo electrónico en un lapso de 3 días hábiles."
+  },
+  {
+    "query": "¿Puedo solicitar varias constancias al mismo tiempo?",
+    "response": "Sí, puedes solicitar varias constancias en una sola solicitud. Solo asegúrate de seleccionar todas las que necesitas y realizar el pago correspondiente por cada una."
+  },
+  {
+    "query": "¿Qué hago si no recibo mi constancia por correo?",
+    "response": "Si no recibes la constancia en el plazo indicado, verifica que tu correo personal esté bien escrito en el Módulo de Información Escolar. Si necesitas corregirlo, envía un correo con tu nombre, matrícula y el nuevo correo a la dirección proporcionada por Sistemas Escolares."
+  },
+  {
+    "query": "¿Puedo solicitar una constancia si ya egresé?",
+    "response": "Sí, puedes solicitar ciertas constancias incluso si ya egresaste, como la historia académica con promedio y porcentaje de créditos. Sin embargo, algunas constancias están disponibles solo para alumnos activos."
+  },
+  {
+    "query": "¿Qué información incluye la Constancia UAM?",
+    "response": "La Constancia UAM incluye datos como tu carrera y trimestre en curso, total de créditos contabilizados y el porcentaje correspondiente, ubicación del trimestre con relación a la carrera, UEA inscritas al trimestre actual, promedio general al trimestre anterior, fechas del inter-trimestre y siguiente trimestre, y clave de la institución."
+  }
+],
+  "13":[
+  {
+    "query": "¿Cómo puedo solicitar una constancia?",
+    "response": "Debes ingresar al Módulo de Información Escolar en la web, ir a la sección de 'Pago de Servicios', seleccionar la constancia que necesitas y confirmar la solicitud. La constancia te será enviada por correo electrónico en un lapso de 3 días hábiles."
+  },
+  {
+    "query": "¿Cuánto cuesta solicitar una constancia?",
+    "response": "Por el momento, las constancias no tienen costo."
+  },
+  {
+    "query": "¿En qué periodo puedo solicitar una constancia?",
+    "response": "Puedes solicitar constancias desde la semana 1 hasta la semana 11 de clases, de acuerdo al calendario escolar y al instructivo de fechas publicado por Sistemas Escolares."
+  },
+  {
+    "query": "¿Qué hago si no recibo mi constancia por correo?",
+    "response": "Si no recibes la constancia en el plazo indicado, verifica que tu correo personal esté bien escrito en el Módulo de Información Escolar. Si necesitas corregirlo, envía un correo con tu nombre, matrícula y el nuevo correo a la dirección proporcionada por Sistemas Escolares."
+  },
+  {
+    "query": "¿A qué correos electrónicos me llegará la constancia?",
+    "response": "La constancia será enviada a tu correo personal registrado en el Sistema Escolar y a tu correo institucional Titlani, si aún eres alumno activo al trimestre lectivo."
+  },
+  {
+    "query": "¿Puedo solicitar varias constancias al mismo tiempo?",
+    "response": "Sí, puedes solicitar varias constancias en una sola solicitud. Solo asegúrate de seleccionar todas las que necesitas y confirmar la solicitud en el Módulo de Información Escolar."
+  },
+  {
+    "query": "¿Qué información incluye la Constancia UAM?",
+    "response": "La Constancia UAM incluye datos como tu carrera y trimestre en curso, total de créditos contabilizados y el porcentaje correspondiente, ubicación del trimestre con relación a la carrera, UEA inscritas al trimestre actual, promedio general al trimestre anterior, fechas del inter-trimestre y siguiente trimestre, y clave de la institución."
+  },
+  {
+    "query": "¿Puedo solicitar una constancia si ya egresé?",
+    "response": "Sí, puedes solicitar ciertas constancias incluso si ya egresaste, como la historia académica con promedio y porcentaje de créditos. Sin embargo, algunas constancias están disponibles solo para alumnos activos."
+  }
+],
+  "14":[
+  {
+    "query": "¿Qué es el Certificado Parcial de Estudios?",
+    "response": "Es un documento que muestra las materias que has cursado y aprobado hasta el momento, útil si aún no terminas tu carrera pero necesitas comprobar tus avances académicos."
+  },
+  {
+    "query": "¿Cuándo puedo solicitar el Certificado Parcial de Estudios?",
+    "response": "Puedes solicitarlo desde la semana 1 hasta la semana 11 del trimestre, según el calendario escolar vigente."
+  },
+  {
+    "query": "¿Cómo solicito el Certificado Parcial de Estudios?",
+    "response": "Primero, imprime y llena la 'Solicitud de Certificado de Estudios Parcial'. Luego, realiza el pago correspondiente en la caja de la Unidad Iztapalapa. Después, lleva el comprobante de pago y dos fotografías tamaño infantil a la Sección de Registro Académico de Sistemas Escolares para entregar los documentos y recibir el comprobante con la fecha de entrega."
+  },
+  {
+    "query": "¿Cuánto cuesta el Certificado Parcial de Estudios?",
+    "response": "El costo es de $4.20 para estudiantes mexicanos y $21.00 para estudiantes extranjeros."
+  },
+  {
+    "query": "¿Qué requisitos debo cumplir para solicitar el Certificado Parcial de Estudios?",
+    "response": "Debes haber cursado y aprobado algunas materias de tu plan de estudios. Además, necesitas presentar la solicitud llenada, el comprobante de pago y dos fotografías tamaño infantil a color, con fondo blanco, en papel mate, no instantáneas ni digitales."
+  },
+  {
+    "query": "¿Dónde recojo mi Certificado Parcial de Estudios?",
+    "response": "Debes recogerlo en la Sección de Registro Académico de Sistemas Escolares en la fecha indicada en el comprobante que te entregaron al solicitarlo. Lleva contigo tu credencial de alumno y el comprobante de trámite."
+  },
+  {
+    "query": "¿Puedo solicitar el Certificado Parcial de Estudios si ya egresé?",
+    "response": "Sí, puedes solicitarlo incluso si ya egresaste, siempre que necesites comprobar las materias cursadas y aprobadas durante tus estudios."
+  },
+  {
+    "query": "¿Puedo autorizar a alguien más para recoger mi Certificado Parcial de Estudios?",
+    "response": "Sí, otra persona puede recogerlo por ti, siempre y cuando presente una carta poder firmada por ti, una copia de tu identificación oficial y su propia identificación oficial."
+  }
+],
+  "15":[
+  {
+    "query": "¿Qué es el financiamiento educativo?",
+    "response": "Es un apoyo que te permite cubrir las cuotas de inscripción anual y trimestrales durante los primeros cuatro años de tu carrera, si no cuentas con los recursos necesarios para pagarlas."
+  },
+  {
+    "query": "¿Quién puede solicitar el financiamiento educativo?",
+    "response": "Puedes solicitarlo si eres mexicano, mayor de 18 años, estás inscrito como alumno y cuentas con un aval que te respalde."
+  },
+  {
+    "query": "¿Cuándo y dónde se solicita el financiamiento educativo?",
+    "response": "Debes presentarte durante la semana 9 del trimestre en la ventanilla de financiamiento educativo de tu unidad, acompañado de tu aval."
+  },
+  {
+    "query": "¿Qué documentos necesito para el trámite?",
+    "response": "Necesitas tu matrícula de alumno y la presencia de tu aval. No se requiere un formato específico, ya que el contrato y el pagaré se generan en el sistema al proporcionar tu matrícula."
+  },
+  {
+    "query": "¿Cuánto cuesta solicitar el financiamiento educativo?",
+    "response": "El trámite no tiene ningún costo."
+  },
+  {
+    "query": "¿Cuántas veces puedo solicitar el financiamiento educativo?",
+    "response": "Se otorga anualmente al inicio del año escolar, pero puedes solicitarlo en cualquier trimestre, siempre que coincida con tu trimestre de ingreso."
+  },
+  {
+    "query": "¿Cuándo debo empezar a pagar el financiamiento?",
+    "response": "Tienes un periodo de gracia de dos trimestres después de concluir tu carrera para comenzar a pagar el total del crédito otorgado."
+  },
+  {
+    "query": "¿Puedo solicitar el financiamiento si ya tengo una beca?",
+    "response": "Sí, el financiamiento educativo es independiente de las becas, pero es importante revisar las condiciones de tu beca para asegurarte de que no haya incompatibilidades."
+  }
+],
+  "16":[
+  {
+    "query": "¿Cómo puedo pagar mis cuotas escolares?",
+    "response": "Debes ingresar al Módulo de Información Escolar en la web, generar tu línea de captura con el monto a pagar y luego realizar el pago en línea dentro del módulo o acudir al banco con la línea de captura impresa antes de la fecha límite."
+  },
+  {
+    "query": "¿Cuánto debo pagar por trimestre o anualidad?",
+    "response": "Para estudiantes mexicanos, el costo es de $128.43 pesos por trimestre o anualidad. Para estudiantes extranjeros, es de $642.15 pesos por trimestre o anualidad."
+  },
+  {
+    "query": "¿Cuándo debo realizar el pago de mis cuotas?",
+    "response": "El pago se realiza a partir de la semana 8 del trimestre y hasta la fecha límite autorizada para la reinscripción en web, de acuerdo al calendario escolar."
+  },
+  {
+    "query": "¿Qué hago después de realizar el pago?",
+    "response": "Debes revisar en el Módulo de Información Escolar, en la sección de 'Pagos', que el monto correspondiente haya sido registrado. Esto puede tardar hasta dos días hábiles. Si no aparece, reporta el problema al correo electrónico proporcionado, adjuntando el comprobante de pago escaneado."
+  },
+  {
+    "query": "¿Qué pasa si no se registra mi pago?",
+    "response": "Si después de dos días hábiles tu pago no aparece registrado, debes enviar un correo electrónico a la dirección proporcionada por Sistemas Escolares, adjuntando el comprobante de pago escaneado, para que puedan ayudarte a resolver el problema."
+  },
+  {
+    "query": "¿Puedo pagar en línea o solo en el banco?",
+    "response": "Puedes pagar en línea dentro del Módulo de Información Escolar o acudir al banco con la línea de captura impresa antes de la fecha límite."
+  },
+  {
+    "query": "¿Qué es la línea de captura?",
+    "response": "Es un documento que generas en el Módulo de Información Escolar, el cual contiene el monto a pagar y los datos necesarios para realizar el pago de tus cuotas escolares."
+  },
+  {
+    "query": "¿Dónde puedo encontrar más información sobre el pago de cuotas?",
+    "response": "Puedes consultar la sección de 'Pago de Cuotas por Línea de Captura' en la página de Sistemas Escolares para obtener más detalles e instrucciones."
+  }
+],
+  "17":[
+  {
+    "query": "¿Qué es la ayuda económica para hijos de trabajadores?",
+    "response": "Es un apoyo que cubre el costo de las cuotas de inscripción y reinscripción para estudiantes que son hijos, cónyuges o el mismo trabajador de la universidad, siempre y cuando estén inscritos como alumnos."
+  },
+  {
+    "query": "¿Quiénes pueden solicitar esta ayuda?",
+    "response": "Pueden solicitarla los trabajadores, sus cónyuges o sus hijos que estén inscritos como alumnos en la universidad."
+  },
+  {
+    "query": "¿Cuándo puedo solicitar la ayuda económica?",
+    "response": "El trámite se realiza entre la semana 5 y la semana 11 de clases, según el calendario escolar vigente."
+  },
+  {
+    "query": "¿Cómo solicito la ayuda económica?",
+    "response": "Debes imprimir y llenar la Solicitud de Ayuda Económica, entregarla en la Sección de Recursos Humanos para su autorización, recoger el original y la copia autorizadas en la fecha indicada, entregar el original en el área de informes de Sistemas Escolares entre las semanas 10 y 11 de clases para que se registre el pago, y finalmente reinscribirte en línea el día señalado en el instructivo de Reinscripción en Web."
+  },
+  {
+    "query": "¿Tiene algún costo solicitar esta ayuda?",
+    "response": "No, el trámite es completamente gratuito."
+  },
+  {
+    "query": "¿Dónde puedo obtener la Solicitud de Ayuda Económica?",
+    "response": "Puedes descargarla desde la página de Sistemas Escolares en la sección de Ayuda Económica."
+  },
+  {
+    "query": "¿Qué pasa si no entrego la solicitud a tiempo?",
+    "response": "Si no entregas la solicitud dentro del periodo establecido, no se podrá registrar el pago de tus cuotas, y tendrás que cubrirlas por tu cuenta."
+  },
+  {
+    "query": "¿Puedo solicitar la ayuda económica cada trimestre?",
+    "response": "Sí, puedes solicitarla cada vez que te corresponda pagar las cuotas de inscripción o reinscripción, siempre y cuando cumplas con los requisitos."
+  }
+],
+  "18":[
+  {
+    "query": "¿Qué es la ayuda económica para hijos de trabajadores?",
+    "response": "Es un apoyo que cubre el costo de las cuotas de inscripción y reinscripción para estudiantes que son hijos, cónyuges o el mismo trabajador de la universidad, siempre y cuando estén inscritos como alumnos."
+  },
+  {
+    "query": "¿Quiénes pueden solicitar esta ayuda?",
+    "response": "Pueden solicitarla los trabajadores, sus cónyuges o sus hijos que estén inscritos como alumnos en la universidad."
+  },
+  {
+    "query": "¿Cuándo puedo solicitar la ayuda económica?",
+    "response": "El trámite se realiza entre la semana 5 y la semana 11 de clases, según el calendario escolar vigente."
+  },
+  {
+    "query": "¿Cómo solicito la ayuda económica?",
+    "response": "Debes imprimir y llenar la Solicitud de Ayuda Económica, entregarla en la Sección de Recursos Humanos para su autorización, recoger el original y la copia autorizadas en la fecha indicada, entregar el original en el área de informes de Sistemas Escolares entre las semanas 10 y 11 de clases para que se registre el pago, y finalmente reinscribirte en línea el día señalado en el instructivo de Reinscripción en Web."
+  },
+  {
+    "query": "¿Tiene algún costo solicitar esta ayuda?",
+    "response": "No, el trámite es completamente gratuito."
+  },
+  {
+    "query": "¿Dónde puedo obtener la Solicitud de Ayuda Económica?",
+    "response": "Puedes descargarla desde la página de Sistemas Escolares en la sección de Ayuda Económica."
+  },
+  {
+    "query": "¿Qué pasa si no entrego la solicitud a tiempo?",
+    "response": "Si no entregas la solicitud dentro del periodo establecido, no se podrá registrar el pago de tus cuotas, y tendrás que cubrirlas por tu cuenta."
+  },
+  {
+    "query": "¿Puedo solicitar la ayuda económica cada trimestre?",
+    "response": "Sí, puedes solicitarla cada vez que te corresponda pagar las cuotas de inscripción o reinscripción, siempre y cuando cumplas con los requisitos."
+  }
+],
+  "19":[
+  {
+    "query": "¿Qué es la movilidad estudiantil?",
+    "response": "Es la oportunidad de realizar parte de tus estudios en otra universidad, ya sea en México o en el extranjero, para cursar materias o hacer investigación, y que esas actividades sean reconocidas oficialmente en tu carrera."
+  },
+  {
+    "query": "¿Cuáles son los requisitos para solicitar movilidad?",
+    "response": "Debes estar inscrito al año escolar, haber estado inscrito en materias el trimestre anterior, tener al menos el 50% de los créditos de tu carrera completados, un promedio mínimo de 8.0, y contar con las autorizaciones necesarias según tu división y los convenios existentes."
+  },
+  {
+    "query": "¿Cuándo se publican las convocatorias de movilidad?",
+    "response": "Las convocatorias se publican en los meses de enero-febrero y agosto-septiembre. Puedes consultarlas en la página vinculacion.uam.mx o en la Oficina de Movilidad Divisional correspondiente."
+  },
+  {
+    "query": "¿Cómo inicio el trámite de movilidad?",
+    "response": "Primero, revisa las convocatorias en vinculacion.uam.mx. Luego, consulta los lineamientos de movilidad de tu división, asesórate con tu coordinador de estudios, elabora un programa de trabajo con las materias o actividades a realizar, y presenta la solicitud con las autorizaciones requeridas en la Oficina de Movilidad Divisional (CODDAA)."
+  },
+  {
+    "query": "¿Debo pagar algo por realizar la movilidad?",
+    "response": "No, el trámite de movilidad no tiene costo. Sin embargo, debes pagar tus cuotas de reinscripción en la universidad durante cada trimestre que dure la movilidad y reinscribirte en blanco en el sistema web, según el instructivo de reinscripción."
+  },
+  {
+    "query": "¿Qué hago después de terminar mi estancia de movilidad?",
+    "response": "Debes obtener las constancias de calificaciones de la institución donde realizaste la movilidad y entregarlas a Sistemas Escolares para que se elaboren las actas y se registren las calificaciones correspondientes."
+  },
+  {
+    "query": "¿Dónde puedo obtener más información sobre movilidad estudiantil?",
+    "response": "Puedes consultar la página vinculacion.uam.mx o acudir a la Oficina de Movilidad Divisional (CODDAA) de tu división para obtener más detalles y asesoría personalizada."
+  }
+],
+  "20":[
+  {
+    "query": "¿Qué es la movilidad estudiantil para participantes?",
+    "response": "Es una oportunidad para que estudiantes de otras universidades, ya sea en México o en el extranjero, puedan cursar materias en la UAM Iztapalapa por un tiempo determinado, siempre y cuando exista un convenio entre ambas instituciones."
+  },
+  {
+    "query": "¿Quiénes pueden participar en este programa?",
+    "response": "Estudiantes de otras instituciones de educación superior que tengan un convenio con la UAM o formen parte de agrupaciones como ECOES o ANUIES."
+  },
+  {
+    "query": "¿Qué pasos debo seguir para realizar una estancia de movilidad?",
+    "response": "Primero, investiga la oferta académica de la UAM Iztapalapa y contacta al coordinador de la licenciatura que te interesa para confirmar la disponibilidad de las materias. Luego, elabora un plan de trabajo con las materias que deseas cursar y obtén la aprobación de tu universidad de origen y de la UAM. Finalmente, entrega la solicitud con las autorizaciones en la Oficina de Movilidad Divisional (CODDAA) para su validación."
+  },
+  {
+    "query": "¿Cuándo se publican las convocatorias para movilidad?",
+    "response": "Las convocatorias se publican en los meses de enero-febrero y agosto-septiembre."
+  },
+  {
+    "query": "¿Tiene algún costo participar en este programa?",
+    "response": "No, el trámite de movilidad estudiantil para participantes no tiene ningún costo."
+  },
+  {
+    "query": "¿Qué sucede después de que mi solicitud es aceptada?",
+    "response": "Recibirás una inducción y un número de matrícula para llevar a cabo la movilidad en la UAM Iztapalapa. También te entregarán comprobantes de inscripción al trimestre y una credencial de alumno participante."
+  },
+  {
+    "query": "¿Qué debo hacer al finalizar mi estancia de movilidad?",
+    "response": "Debes solicitar comprobantes de estudios para entregarlos a tu institución de origen y oficializar las materias que cursaste durante tu estancia."
+  },
+  {
+    "query": "¿Dónde puedo obtener más información o ayuda sobre este proceso?",
+    "response": "Puedes contactar a la Oficina de Movilidad Divisional (CODDAA) correspondiente a la división de tu interés. Los correos electrónicos están disponibles en la página de Movilidad Estudiantil Participante de la UAM Iztapalapa."
+  }
+],
+  "21":[
+  {
+    "query": "¿Qué es una prórroga para terminar mis estudios?",
+    "response": "Es un permiso especial que puedes solicitar si no terminaste tu carrera en el tiempo máximo permitido (10 años desde que entraste). Si ya pasaron esos 10 años y no concluiste, pierdes tu calidad de alumno, pero puedes pedir una prórroga para volver a serlo y así terminar tus estudios."
+  },
+  {
+    "query": "¿Cuáles son los requisitos para pedir una prórroga?",
+    "response": "Debes haber completado al menos el 75% de los créditos de tu carrera y solicitar la prórroga dentro de los seis trimestres después de que se venció el plazo máximo de 10 años."
+  },
+  {
+    "query": "¿Cómo solicito la prórroga?",
+    "response": "Primero, pide por correo electrónico una 'Situación Académica para Prórroga' y tu 'Historial Académico'. Luego, entre las semanas 3 y 6 del trimestre, envía estos documentos a la Coordinación Divisional de Docencia de tu división para que evalúen tu solicitud."
+  },
+  {
+    "query": "¿Cuánto cuesta el trámite de prórroga?",
+    "response": "El trámite en sí no tiene costo, pero debes pagar por los documentos necesarios: $5.40 por la Situación Académica para Prórroga y $4.20 por el Historial Académico si eres mexicano; si eres extranjero, los costos son $27.00 y $21.00 respectivamente."
+  },
+  {
+    "query": "¿Qué pasa después de que me aprueban la prórroga?",
+    "response": "Debes consultar el Calendario de Reinscripción Web para conocer las fechas del proceso de reinscripción, pagar las cuotas correspondientes, elegir tus materias optativas según el calendario y realizar tu solicitud de reinscripción en línea en la fecha que te corresponda."
+  },
+  {
+    "query": "¿Dónde puedo obtener más información o ayuda sobre este proceso?",
+    "response": "Puedes contactar a la Coordinación Divisional de Docencia de tu división. Los correos electrónicos están disponibles en la página de Prórroga para Terminar Estudios de la UAM Iztapalapa."
+  }
+],
+  "22":[
+  {
+    "query": "¿Qué es el seguro de salud para estudiantes?",
+    "response": "Es un servicio médico gratuito que ofrece el IMSS a estudiantes de nivel medio superior, superior y posgrado que no cuenten con otra cobertura médica. Cubre atención médica general, quirúrgica, tratamientos, embarazo y parto."
+  },
+  {
+    "query": "¿Quiénes pueden obtener este seguro?",
+    "response": "Todos los estudiantes inscritos en programas de licenciatura, especialidad, maestría o doctorado que no tengan otro tipo de seguridad social."
+  },
+  {
+    "query": "¿Cómo obtengo mi Número de Seguridad Social (NSS)?",
+    "response": "Debes ingresar a la página del IMSS: https://www.imss.gob.mx/imssdigital, seleccionar 'NSS Número de Seguridad Social' y seguir los pasos que se indican. Necesitarás tu CURP, correo electrónico y dirección completa."
+  },
+  {
+    "query": "¿Qué hago después de obtener mi NSS?",
+    "response": "Imprime la asignación de tu NSS, anota tu matrícula en la parte superior derecha y entrégalo en la ventanilla correspondiente el día de tu inscripción."
+  },
+  {
+    "query": "¿Cómo confirmo que ya estoy dado de alta en el IMSS?",
+    "response": "En la cuarta semana del trimestre, ingresa nuevamente a la página del IMSS y verifica la 'Vigencia de derechos'. Si ya estás dado de alta, podrás registrar tu clínica o Unidad de Medicina Familiar (UMF) para recibir atención médica."
+  },
+  {
+    "query": "¿Qué hago si no aparezco dado de alta en el IMSS?",
+    "response": "Si no tienes derecho al servicio médico, entrega en el área de informes de Sistemas Escolares la constancia de vigencia de derechos con tu matrícula en la parte superior derecha, o envíala por correo electrónico con tus datos completos y una identificación escaneada."
+  },
+  {
+    "query": "¿Qué debo hacer si me voy de movilidad a otro estado?",
+    "response": "Debes contar con tu NSS y la vigencia de derechos otorgada por la universidad. Una vez en tu lugar de movilidad, ingresa a la página del IMSS y realiza el cambio de clínica o UMF con la dirección de tu estancia. Solo puedes hacer este cambio cada seis meses."
+  },
+  {
+    "query": "¿Dónde puedo obtener más información o ayuda sobre este proceso?",
+    "response": "Puedes consultar la página del IMSS: https://www.imss.gob.mx o llamar al 01800 623 2323. También puedes acudir al área de informes de Sistemas Escolares con tu comprobante impreso de la asignación del NSS para recibir orientación."
+  }
+],
+  "23":[
+  {
+    "query": "¿Qué es el reingreso?",
+    "response": "Es el trámite que debes realizar si dejaste de reinscribirte por más de seis trimestres consecutivos y deseas retomar tus estudios. Solo se puede solicitar una vez y estarás sujeto al plan de estudios vigente al momento del reingreso, así como a un examen de conjunto que definirá tu división."
+  },
+  {
+    "query": "¿Cuáles son los requisitos para solicitar el reingreso?",
+    "response": "Debes haber dejado de reinscribirte durante siete trimestres o más. Para iniciar el trámite, solicita tu Historial Académico al correo csera@xanum.uam.mx, proporcionando tu nombre, matrícula e imagen de una identificación. Luego, entre las semanas 3 a 6 del trimestre, reenvía el documento a la Coordinación Divisional de Docencia correspondiente a tu división (CBI, CSH o CBS) y solicita informes para adquirir nuevamente la calidad de alumno."
+  },
+  {
+    "query": "¿Cuál es el costo del trámite de reingreso?",
+    "response": "El trámite de reingreso no tiene costo. Sin embargo, deberás pagar por la emisión del Historial Académico: $4.20 para estudiantes mexicanos y $21.00 para estudiantes extranjeros."
+  },
+  {
+    "query": "¿Qué debo hacer después de que me aprueban el reingreso?",
+    "response": "Debes consultar el Calendario de Reinscripción Web para conocer las fechas del proceso de reinscripción. Luego, realiza el pago de cuotas correspondiente, elige tus materias optativas según las fechas señaladas y realiza la Solicitud de Reinscripción en Web de acuerdo a tu división."
+  },
+  {
+    "query": "¿Dónde puedo obtener más información o ayuda sobre este proceso?",
+    "response": "Puedes contactar a la Coordinación Divisional de Docencia de tu división. Los correos electrónicos están disponibles en la página de Reingreso de la UAM Iztapalapa."
+  }
+],
+  "24":[
+  {
+    "query": "¿Qué es la acreditación de estudios?",
+    "response": "Es un trámite que permite reconocer las materias que ya cursaste y aprobaste en otra carrera, división o unidad, para que no tengas que repetirlas si decides cambiarte de carrera o estudiar una segunda licenciatura."
+  },
+  {
+    "query": "¿Quiénes pueden solicitar la acreditación de estudios?",
+    "response": "Pueden solicitarla los alumnos que hayan hecho un cambio de carrera, división o unidad, y también los egresados que deseen cursar una segunda licenciatura."
+  },
+  {
+    "query": "¿Cuántas materias me pueden acreditar?",
+    "response": "Te pueden acreditar hasta el 75% de los créditos del nuevo plan de estudios que vas a cursar."
+  },
+  {
+    "query": "¿Qué documentos necesito para solicitar la acreditación?",
+    "response": "Necesitas presentar tu historial académico o certificado de estudios, y el comprobante de autorización del cambio de carrera o de inscripción a la segunda licenciatura, según sea el caso."
+  },
+  {
+    "query": "¿Cómo solicito la acreditación de estudios?",
+    "response": "Debes llenar la solicitud correspondiente y entregarla junto con los documentos requeridos en la Dirección de Sistemas Escolares. Ellos te indicarán los pasos a seguir y el monto a pagar por el trámite."
+  },
+  {
+    "query": "¿Cuánto cuesta el trámite de acreditación?",
+    "response": "El costo del trámite varía y se te informará en la Dirección de Sistemas Escolares al momento de solicitarlo."
+  },
+  {
+    "query": "¿Cuánto tiempo tarda el proceso de acreditación?",
+    "response": "El proceso puede tardar hasta un trimestre, ya que implica la revisión y dictamen por parte de las autoridades académicas correspondientes."
+  },
+  {
+    "query": "¿Dónde puedo obtener más información sobre la acreditación de estudios?",
+    "response": "Puedes consultar el instructivo para tramitar la acreditación de estudios en la página de Sistemas Escolares: https://www.cseuami.org/index.php/acreditacion o comunicarte al correo tramitereeae@correo.uam.mx."
+  }
+],
+  "25":[
+  {
+    "query": "¿Qué es la Quinta Oportunidad Especial?",
+    "response": "Es una última oportunidad que tienes para aprobar una materia que ya reprobaste cuatro veces. En esta ocasión, se forma un jurado de tres profesores del área para evaluarte de manera especial."
+  },
+  {
+    "query": "¿Quién puede solicitar la Quinta Oportunidad Especial?",
+    "response": "Puedes solicitarla si ya reprobaste la misma materia cuatro veces y estás en tu quinta oportunidad para acreditarla."
+  },
+  {
+    "query": "¿Cómo solicito la Quinta Oportunidad Especial?",
+    "response": "Primero, solicita en el área de informes de Sistemas Escolares una constancia que indique que has reprobado la materia cuatro veces. Luego, entrega esta constancia a la Coordinación Divisional de Docencia y Atención a Alumnos (CODDAA) correspondiente a tu división entre las semanas 7 y 10 del trimestre. Después, sigue las indicaciones que te den para solicitar el examen y recoger el oficio de autorización para la evaluación."
+  },
+  {
+    "query": "¿Cuánto cuesta el trámite de la Quinta Oportunidad Especial?",
+    "response": "El costo es de $2.20 pesos para estudiantes mexicanos y $11.00 pesos para estudiantes extranjeros. El pago se realiza en la caja de la unidad en los horarios establecidos."
+  },
+  {
+    "query": "¿Qué documentos necesito para inscribirme a la Quinta Oportunidad Especial?",
+    "response": "Necesitas el oficio de asignación con los sinodales, la solicitud de evaluación de recuperación llenada, el comprobante de pago y una identificación oficial."
+  },
+  {
+    "query": "¿Dónde y cuándo se realiza la evaluación de recuperación?",
+    "response": "La evaluación se lleva a cabo en la fecha y hora indicadas en el oficio de asignación de sinodales. Debes presentarte puntualmente y con los documentos requeridos."
+  },
+  {
+    "query": "¿Qué pasa si no solicito la Quinta Oportunidad Especial?",
+    "response": "Si no solicitas la Quinta Oportunidad Especial, puedes optar por inscribir la quinta oportunidad normal con el jurado asignado para esa evaluación en el Sistema Escolar, siguiendo los pasos del 4 al 9 del instructivo."
+  },
+  {
+    "query": "¿Dónde puedo obtener más información sobre la Quinta Oportunidad Especial?",
+    "response": "Puedes consultar la página de Sistemas Escolares: https://www.cseuami.org/index.php/quinta-oportunidad-especial o acudir al área de informes de Sistemas Escolares de tu unidad."
+  }
+],
+  "26":[
+  {
+    "query": "¿Qué es la baja definitiva?",
+    "response": "Es cuando decides dejar de estudiar en la universidad de forma permanente. Al hacerla, pierdes tu matrícula y ya no eres considerado alumno."
+  },
+  {
+    "query": "¿Cómo solicito la baja definitiva?",
+    "response": "Debes imprimir y llenar la Solicitud de Baja Definitiva, recabar las firmas necesarias que indiquen que no tienes adeudos, hacer dos copias del documento y entregarlo junto con tu credencial en el área de informes de Sistemas Escolares."
+  },
+  {
+    "query": "¿Cuándo puedo hacer este trámite?",
+    "response": "Puedes realizarlo desde la semana 1 hasta la semana 10 de cada trimestre, según el calendario escolar vigente."
+  },
+  {
+    "query": "¿Tiene algún costo la baja definitiva?",
+    "response": "No, este trámite es completamente gratuito."
+  },
+  {
+    "query": "¿Qué consecuencias tiene solicitar la baja definitiva?",
+    "response": "Una vez que la solicitas, no hay marcha atrás. Si han pasado cinco años o más desde que ingresaste a la universidad, no podrás volver a presentar examen de admisión, y los créditos que hayas aprobado ya no serán válidos si decides regresar."
+  },
+  {
+    "query": "¿Qué pasa con mi seguro del IMSS al darme de baja?",
+    "response": "Debes darte de baja también en el IMSS. Para ello, obtén tu constancia de vigencia de derechos en la página del IMSS, anota tu matrícula y la palabra 'BAJA' en la parte superior derecha, y entrégala junto con tu solicitud de baja definitiva o envíala por correo electrónico con una identificación escaneada."
+  },
+  {
+    "query": "¿Puedo volver a estudiar en la universidad después de una baja definitiva?",
+    "response": "Depende. Si han pasado menos de cinco años desde tu ingreso, podrías presentar examen de admisión nuevamente. Si han pasado cinco años o más, ya no podrás hacerlo, y los créditos que tenías no serán válidos."
+  },
+  {
+    "query": "¿Dónde puedo obtener más información o ayuda sobre este proceso?",
+    "response": "Puedes consultar la página de Sistemas Escolares: https://www.cseuami.org/index.php/baja o acudir al área de informes de Sistemas Escolares de tu unidad."
+  }
+],
+  "27":[
+  {
+    "query": "¿Qué es la Conclusión de Créditos por Experiencia Laboral?",
+    "response": "Es una opción para que quienes dejaron la universidad sin terminar su carrera, y ya no son alumnos por haber pasado el tiempo máximo permitido, puedan titularse si tienen al menos el 90% de los créditos completados y experiencia laboral relevante."
+  },
+  {
+    "query": "¿Quiénes pueden solicitar esta modalidad?",
+    "response": "Personas que perdieron su calidad de alumno por haber pasado el plazo máximo de 10 años (o el nuevo plazo autorizado) y que han trabajado al menos 5 años en actividades relacionadas con su carrera."
+  },
+  {
+    "query": "¿Qué requisitos debo cumplir?",
+    "response": "Necesitas: una constancia que indique que tienes al menos el 90% de los créditos completados, que hayan pasado 5 años o más desde que venció tu plazo para terminar la carrera, un currículum detallado, una solicitud escrita al director de tu división, y documentos que demuestren tu experiencia laboral relacionada con tu carrera."
+  },
+  {
+    "query": "¿Cómo inicio el trámite?",
+    "response": "Primero, imprime y llena la Solicitud de Servicios Escolares. Luego, paga en la caja de la unidad por la 'Constancia de Baja Reglamentaria por vencimiento del plazo máximo'. Con estos documentos, acude a la oficina de titulación de la Coordinación de Sistemas Escolares para solicitar la constancia. Después, entrega toda la documentación requerida en la ventanilla correspondiente de tu división."
+  },
+  {
+    "query": "¿Cuánto cuesta este trámite?",
+    "response": "El costo es de $8.60 pesos. El pago se realiza en la caja de la unidad en horario de 9:30 a 14:00 y de 15:00 a 16:30 horas."
+  },
+  {
+    "query": "¿Cuándo puedo hacer este trámite?",
+    "response": "Las fechas dependen de tu división académica. Es importante consultar el calendario o contactar a tu división para obtener información específica."
+  },
+  {
+    "query": "¿Puedo solicitar esta modalidad si ya lo intenté antes?",
+    "response": "No, esta opción solo se puede solicitar una vez. Si ya hiciste una solicitud similar anteriormente, no puedes volver a intentarlo."
+  },
+  {
+    "query": "¿Aplica para estudios de posgrado?",
+    "response": "No, esta modalidad no está disponible para alumnos de posgrado."
+  },
+  {
+    "query": "¿Dónde puedo obtener más información?",
+    "response": "Puedes consultar la página de Sistemas Escolares: https://www.cseuami.org/index.php/titulacion/ccel o acudir al área de informes de Sistemas Escolares de tu unidad."
+  }
+]
+}

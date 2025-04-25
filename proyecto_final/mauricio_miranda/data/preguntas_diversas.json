@@ -1,0 +1,360 @@
+{
+    "1":[
+        {
+          "query": "¿Qué carreras puedo estudiar?",
+          "response": "Puedes estudiar diversas carreras agrupadas en tres divisiones: Ciencias Básicas e Ingeniería (CBI), Ciencias Biológicas y de la Salud (CBS), y Ciencias Sociales y Humanidades (CSH). Cada división ofrece programas específicos en áreas como ingeniería, biología, salud, ciencias sociales y humanidades."
+        },
+        {
+          "query": "¿Dónde puedo encontrar el plan de estudios de una carrera?",
+          "response": "Puedes consultar el plan de estudios de cada carrera en la página de Programas Académicos. Ahí encontrarás información detallada sobre las materias que conforman cada programa."
+        },
+        {
+          "query": "¿Qué divisiones académicas existen y qué carreras ofrecen?",
+          "response": "Existen tres divisiones académicas: CBI, CBS y CSH. CBI ofrece carreras como Ingeniería Biomédica, Ingeniería Electrónica, Ingeniería en Energía, Ingeniería Hidrológica, Ingeniería Química, Matemáticas, Física, Computación, Química y Ciencias Atmosféricas. CBS ofrece Biología, Biología Experimental, Hidrobiología, Ingeniería de los Alimentos, Ingeniería Bioquímica Industrial y Producción Animal. CSH ofrece Administración, Antropología Social, Ciencia Política, Economía, Filosofía, Geografía Humana, Historia, Letras Hispánicas, Lingüística, Psicología Social y Sociología."
+        },
+        {
+          "query": "¿Cómo puedo saber más sobre una carrera específica?",
+          "response": "Puedes visitar el sitio web de la división correspondiente a la carrera de tu interés. Ahí encontrarás información detallada sobre el plan de estudios, requisitos de admisión y otros aspectos relevantes."
+        },
+        {
+          "query": "¿Dónde puedo obtener más información o ayuda sobre los programas académicos?",
+          "response": "Puedes consultar la página de Programas Académicos: https://www.cseuami.org/index.php/programas o acudir al área de informes de Sistemas Escolares de tu unidad."
+        }
+      ],
+    "2":[
+        {
+          "query": "¿Qué tipos de posgrados puedo estudiar?",
+          "response": "Puedes estudiar especializaciones, maestrías y doctorados en áreas como Ciencias Básicas e Ingeniería, Ciencias Biológicas y de la Salud, y Ciencias Sociales y Humanidades. Cada división ofrece programas específicos en distintas disciplinas."
+        },
+        {
+          "query": "¿Dónde puedo encontrar información sobre los programas de posgrado?",
+          "response": "Puedes consultar la página de Programas Académicos de Posgrado en https://www.cseuami.org/index.php/programas-posgrado. Ahí encontrarás información detallada sobre los programas disponibles en cada división."
+        },
+        {
+          "query": "¿Cómo me inscribo a un programa de posgrado?",
+          "response": "Debes revisar las convocatorias de admisión publicadas en la página de ingreso a posgrado: https://cseuami.org/index.php/ingreso-posgrado. Ahí se detallan los requisitos, fechas y procedimientos para cada programa."
+        },
+        {
+          "query": "¿Qué requisitos debo cumplir para ingresar a un posgrado?",
+          "response": "Los requisitos varían según el programa, pero generalmente incluyen contar con un título de licenciatura (o maestría para doctorados), presentar un examen de admisión, y cumplir con los documentos solicitados en la convocatoria correspondiente."
+        },
+        {
+          "query": "¿Cómo puedo obtener mi credencial de estudiante de posgrado?",
+          "response": "Una vez inscrito, puedes solicitar tu credencial en la Oficina de Posgrado. Debes estar inscrito al trimestre escolar, llenar la Solicitud de Servicios Escolares, pagar la cuota correspondiente y presentar una identificación con fotografía."
+        },
+        {
+          "query": "¿Qué debo hacer para reinscribirme cada trimestre?",
+          "response": "Debes ingresar al Módulo de Información Escolar de Posgrado en las fechas establecidas, seleccionar las materias que cursarás, generar tu formato de pago y realizar el pago correspondiente. Es importante seguir las instrucciones específicas de tu programa."
+        },
+        {
+          "query": "¿Qué trámites debo realizar para obtener mi grado de posgrado?",
+          "response": "Debes cumplir con los créditos del plan de estudios, realizar la Revisión de Estudios, presentar y aprobar tu tesis o trabajo final, y realizar el trámite de obtención de grado. Los detalles específicos se encuentran en la sección de Egreso en https://cseuami.org/index.php/egreso."
+        },
+        {
+          "query": "¿Dónde puedo obtener más información o ayuda sobre los programas de posgrado?",
+          "response": "Puedes consultar la página de Programas Académicos de Posgrado: https://www.cseuami.org/index.php/programas-posgrado o acudir al área de informes de Sistemas Escolares de tu unidad."
+        }
+      ],
+    "3":[
+        {
+          "query": "¿Qué necesito para entrar a un posgrado?",
+          "response": "Debes revisar la convocatoria específica del posgrado que te interesa, ya que cada uno puede tener requisitos particulares. Generalmente, necesitarás presentar una solicitud de admisión, acta de nacimiento, CURP, certificado de estudios, título profesional o constancia de que está en trámite, comprobante de idioma según lo que indique el programa, y realizar el pago de la cuota de admisión. Para extranjeros, también se requiere documentación adicional como la tarjeta migratoria vigente."
+        },
+        {
+          "query": "¿Dónde encuentro las convocatorias para posgrado?",
+          "response": "Puedes consultar las convocatorias en la página de ingreso a posgrado: https://www.cseuami.org/index.php/ingreso-posgrado. Ahí encontrarás la oferta de posgrados por división académica y los enlaces a las convocatorias específicas."
+        },
+        {
+          "query": "¿Cuánto cuesta el proceso de admisión?",
+          "response": "La cuota de admisión es de $50.00 para mexicanos y $250.00 para extranjeros. Este pago se realiza en la caja de la unidad o en el banco con los datos proporcionados en la convocatoria."
+        },
+        {
+          "query": "¿Qué documentos debo entregar si estudié en el extranjero?",
+          "response": "Además de los documentos generales, debes presentar una solicitud de revalidación de estudios y copia de tu tarjeta migratoria vigente o constancia de que está en trámite. La revalidación de estudios se realiza una vez que hayas sido aceptado y cuentes con la carta de aceptación."
+        },
+        {
+          "query": "¿Cómo sé si fui aceptado en el posgrado?",
+          "response": "Después de completar el proceso de admisión, recibirás una notificación por correo electrónico con tu matrícula y la carta de aceptación. También se te proporcionará información sobre el proceso de inscripción."
+        },
+        {
+          "query": "¿Qué hago después de ser aceptado?",
+          "response": "Debes asistir a la reunión informativa (puede ser por Zoom), revisar y firmar la hoja de inscripción, llenar la solicitud de UEA, realizar el pago de inscripción o presentar el contrato de financiamiento educativo, y seguir las instrucciones para completar tu inscripción en el Módulo de Información Escolar de Posgrado."
+        },
+        {
+          "query": "¿Dónde puedo obtener más información o ayuda sobre este proceso?",
+          "response": "Puedes consultar la página de ingreso a posgrado: https://www.cseuami.org/index.php/ingreso-posgrado o acudir al área de informes de Sistemas Escolares de tu unidad."
+        }
+      ],
+    "4":[
+        {
+          "query": "¿Cómo me reinscribo cada trimestre?",
+          "response": "Debes ingresar al Módulo de Información Escolar de Posgrado en las fechas establecidas en el calendario escolar. Ahí podrás seleccionar tus materias, generar tu formato de pago y realizar el pago correspondiente. Es importante seguir las instrucciones específicas de tu programa."
+        },
+        {
+          "query": "¿Cómo solicito una constancia de estudios?",
+          "response": "Imprime y llena la Solicitud de Servicios Escolares, indicando el tipo de constancia que necesitas. Realiza el pago correspondiente en la caja de la unidad y entrega la solicitud junto con el comprobante de pago en la Oficina de Posgrados. Recibirás un comprobante con la fecha de entrega de la constancia."
+        },
+        {
+          "query": "¿Qué hago si pierdo mi credencial?",
+          "response": "Debes estar inscrito al trimestre escolar. Imprime y llena la Solicitud de Servicios Escolares, realiza el pago de $60.00 en la caja de la unidad y entrega la solicitud en la Oficina de Posgrados. Te indicarán la fecha para recoger tu nueva credencial, presentando una identificación con fotografía y el talón de la solicitud."
+        },
+        {
+          "query": "¿Cómo me doy de alta en el IMSS?",
+          "response": "Obtén tu Número de Seguridad Social (NSS) en la página del IMSS. Imprime el comprobante, anota tu matrícula en la parte superior derecha y entrégalo en la Oficina de Posgrados para que te den de alta en el seguro de salud para estudiantes."
+        },
+        {
+          "query": "¿Cómo solicito la baja definitiva?",
+          "response": "Imprime y llena la Solicitud de Baja Definitiva, recaba las firmas necesarias que indiquen que no tienes adeudos, realiza dos copias del documento y entrégalo junto con tu credencial en la Oficina de Posgrados. Este trámite es gratuito y definitivo."
+        },
+        {
+          "query": "¿Dónde puedo obtener más información sobre estos trámites?",
+          "response": "Puedes consultar la página de Trámites Escolares de Posgrado: https://www.cseuami.org/index.php/tramites-escolares-posgrado o acudir al área de informes de Sistemas Escolares de tu unidad."
+        }
+      ],
+  "5":[
+    {
+      "query": "¿Qué es la Revisión de Estudios en posgrado?",
+      "response": "Es un trámite que se realiza antes del examen de grado para verificar que hayas cumplido con todos los créditos de tu plan de estudios y que no tengas adeudos de materias, documentos o financiamiento educativo. Es un paso obligatorio para continuar con el proceso de titulación."
+    },
+    {
+      "query": "¿Qué necesito para hacer la Revisión de Estudios?",
+      "response": "Debes haber completado todos los créditos de tu plan de estudios, entregar dos fotos tamaño infantil a color y tres en blanco y negro (no instantáneas), llenar la Solicitud de Revisión de Estudios de Posgrado y realizar el pago correspondiente. Una vez hecho esto, te darán una fecha para recoger la revisión."
+    },
+    {
+      "query": "¿Cuánto cuesta la Revisión de Estudios?",
+      "response": "El costo es de $8.60 pesos para mexicanos y $43.00 pesos para extranjeros. El pago se realiza en la caja de la unidad en horario de 9:00 a 14:00 y de 15:00 a 16:30 horas."
+    },
+    {
+      "query": "¿Qué es la Obtención de Grado?",
+      "response": "Es el trámite mediante el cual obtienes tu grado académico (especialización, maestría o doctorado) una vez que has cumplido con todos los requisitos, incluyendo la Revisión de Estudios, la tesis y la aprobación del comité de posgrado."
+    },
+    {
+      "query": "¿Qué necesito para la Obtención de Grado?",
+      "response": "Debes haber completado la Revisión de Estudios, tener tu tesis concluida y aprobada por el comité de posgrado, realizar el pago por el examen de grado y los créditos de tesis, entregar tres fotos tamaño infantil en blanco y negro (si no las entregaste antes) y presentar la Solicitud de Registro para Obtención de Grado al menos seis días hábiles antes del examen."
+    },
+    {
+      "query": "¿Cuánto cuesta la Obtención de Grado?",
+      "response": "El examen de grado cuesta $12.80 pesos para mexicanos y $64.00 pesos para extranjeros. Además, debes pagar por los créditos de tesis según tu plan de estudios: $14.27 pesos por crédito para mexicanos y $71.35 pesos por crédito para extranjeros. Los pagos se realizan en la caja de la unidad en horario de 9:30 a 14:00 y de 15:00 a 16:30 horas."
+    },
+    {
+      "query": "¿Dónde puedo obtener los formatos necesarios para estos trámites?",
+      "response": "Puedes descargar la Solicitud de Revisión de Estudios, el Formato para pagos de Posgrado y la Solicitud de Registro para Obtención de Grado desde la página de egreso: https://www.cseuami.org/index.php/egreso."
+    },
+    {
+      "query": "¿Qué pasa si tengo adeudos?",
+      "response": "Si tienes adeudos de materias, documentos o financiamiento educativo, no podrás continuar con los trámites del examen de grado o disertación pública hasta que los resuelvas."
+    },
+    {
+      "query": "¿Cuándo puedo realizar estos trámites?",
+      "response": "La Revisión de Estudios se puede realizar durante todo el trimestre lectivo, según el calendario escolar. La Obtención de Grado se puede tramitar cualquier día hábil del calendario escolar aprobado."
+    },
+    {
+      "query": "¿Dónde puedo obtener más información o ayuda sobre estos trámites?",
+      "response": "Puedes consultar la página de egreso: https://www.cseuami.org/index.php/egreso o acudir al área de informes de Sistemas Escolares de tu unidad."
+    }
+  ],
+  "6":[
+    {
+      "query": "¿Qué cursos de posgrado están disponibles?",
+      "response": "Hay una variedad de cursos de posgrado agrupados en tres divisiones: Ciencias Básicas e Ingeniería (CBI), Ciencias Biológicas y de la Salud (CBS), y Ciencias Sociales y Humanidades (CSH). Cada división ofrece programas específicos en distintas disciplinas."
+    },
+    {
+      "query": "¿Dónde puedo consultar la lista completa de cursos de posgrado?",
+      "response": "Puedes consultar la lista completa de cursos de posgrado en la página de Cursos de Posgrado: https://www.cseuami.org/index.php/cursos-posgrado. Ahí encontrarás información detallada sobre los programas disponibles en cada división."
+    },
+    {
+      "query": "¿Cómo me inscribo a un curso de posgrado?",
+      "response": "Debes revisar las convocatorias de admisión publicadas en la página de ingreso a posgrado: https://www.cseuami.org/index.php/ingreso-posgrado. Ahí se detallan los requisitos, fechas y procedimientos para cada programa."
+    },
+    {
+      "query": "¿Qué requisitos debo cumplir para ingresar a un curso de posgrado?",
+      "response": "Los requisitos varían según el programa, pero generalmente incluyen contar con un título de licenciatura (o maestría para doctorados), presentar un examen de admisión, y cumplir con los documentos solicitados en la convocatoria correspondiente."
+    },
+    {
+      "query": "¿Dónde puedo obtener más información o ayuda sobre los cursos de posgrado?",
+      "response": "Puedes consultar la página de Cursos de Posgrado: https://www.cseuami.org/index.php/cursos-posgrado o acudir al área de informes de Sistemas Escolares de tu unidad."
+    }
+  ],
+  "7":[
+    {
+      "query": "¿Qué pasos debo seguir para titularme en línea?",
+      "response": "El proceso consta de tres pasos: 1) Obtener el Certificado Total de Estudios, que cambia tu estado académico a 'egresado'; 2) Realizar el Trámite de Titulación, que avala que has cursado estudios de nivel superior; y 3) Firmar y recoger tu título de licenciatura, ya que tu firma le da validez al documento."
+    },
+    {
+      "query": "¿Qué es el Certificado Total de Estudios y cómo lo obtengo?",
+      "response": "Es un documento que comprueba que has concluido tus estudios de licenciatura. Para obtenerlo, debes solicitarlo en la Coordinación de Sistemas Escolares de tu unidad, cumpliendo con los requisitos establecidos."
+    },
+    {
+      "query": "¿Cómo realizo el Trámite de Titulación en línea?",
+      "response": "Una vez que tengas el Certificado Total de Estudios y tu estado académico sea 'egresado', puedes iniciar el trámite de titulación en línea a través del Módulo de Egresados. Ahí deberás seguir las instrucciones para completar el proceso."
+    },
+    {
+      "query": "¿Qué debo hacer para firmar y recoger mi título de licenciatura?",
+      "response": "Después de completar el trámite de titulación, se te notificará cuándo y dónde puedes firmar y recoger tu título. Es importante que sigas las indicaciones proporcionadas para este paso final."
+    },
+    {
+      "query": "¿Dónde puedo obtener más información sobre este proceso?",
+      "response": "Puedes consultar la página de Proceso de Titulación de Licenciatura en Línea: https://www.cseuami.org/index.php/proceso o acudir al área de informes de Sistemas Escolares de tu unidad."
+    }
+  ],
+  "8":[
+    {
+      "query": "¿Cómo empiezo el trámite para obtener mi diploma de especialización?",
+      "response": "Primero, asegúrate de haber completado todos los créditos de tu plan de estudios. Luego, solicita el Certificado Total de Estudios para cambiar tu estado académico a 'egresado'. Una vez hecho esto, ingresa al Módulo de Egresados con tu matrícula y contraseña para iniciar el trámite en línea. Si no puedes generar la contraseña, contacta a la Lic. Yesenia Rubí Verdejo Ramírez."
+    },
+    {
+      "query": "¿Qué documentos necesito para el trámite del diploma?",
+      "response": "Necesitas escanear en formato PDF y a color los siguientes documentos: comprobante de pago, acta de nacimiento, CURP, certificado de estudios de especialización, título profesional de licenciatura, cédula profesional de licenciatura, constancia de evaluación de ensayo o acta de idónea comunicación de resultados, constancia de no adeudo de material y constancia de no adeudo de colegiaturas. Si eres extranjero, también debes incluir pasaporte y comprobante de estancia legal en el país."
+    },
+    {
+      "query": "¿Cómo debo escanear y subir los documentos?",
+      "response": "Cada documento debe escanearse por separado, directamente del original, a color y en formato PDF, con un tamaño máximo de 3 MB. No se aceptan fotos tomadas con el celular ni documentos pegados en Word. Asegúrate de que los archivos sean legibles y estén bien nombrados según el contenido."
+    },
+    {
+      "query": "¿Dónde realizo el pago y cuánto cuesta el trámite?",
+      "response": "Debes ingresar al Módulo de Egresados para descargar el formato de pago. El costo es de $24.00 para mexicanos y $120.00 para extranjeros. Puedes realizar el pago en el banco, en practicajas o mediante transferencia bancaria."
+    },
+    {
+      "query": "¿Qué hago después de subir los documentos?",
+      "response": "Después de subir y enviar tus documentos, debes dar seguimiento en el Módulo de Egresados para verificar el estado de tu trámite, que puede ser 'recibido', 'rechazado' o 'validado'. La revisión tarda de 10 a 15 días hábiles. Una vez validado, puedes solicitar la constancia de diploma en trámite."
+    },
+    {
+      "query": "¿Cuándo y cómo entrego las fotografías para el diploma?",
+      "response": "Las tres fotografías rectangulares (4x5 cm, en blanco y negro, papel mate) se entregan al final del proceso, al momento de la firma del diploma. Asegúrate de que cumplan con las especificaciones indicadas."
+    },
+    {
+      "query": "¿Dónde puedo obtener más información o ayuda sobre este trámite?",
+      "response": "Puedes consultar la página del Trámite de Diploma de Especialización en Línea: https://www.cseuami.org/index.php/tramite-diploma-especializacion o acudir al área de informes de Sistemas Escolares de tu unidad."
+    }
+  ],
+ "9":[
+  {
+    "query": "¿Cómo empiezo el trámite para obtener mi grado de maestría?",
+    "response": "Primero, asegúrate de haber completado todos los créditos de tu plan de estudios. Luego, solicita el Certificado Total de Estudios para cambiar tu estado académico a 'egresado'. Una vez hecho esto, ingresa al Módulo de Egresados con tu matrícula y contraseña para iniciar el trámite en línea. Si no puedes generar la contraseña, contacta a la Lic. Yesenia Rubí Verdejo Ramírez."
+  },
+  {
+    "query": "¿Qué documentos necesito para el trámite del grado de maestría?",
+    "response": "Necesitas escanear en formato PDF y a color los siguientes documentos: comprobante de pago, acta de nacimiento, CURP, certificado de estudios de maestría, título profesional de licenciatura, cédula profesional de licenciatura, acta de examen de grado o acta de idónea comunicación de resultados, comprobante de acreditación de idioma, constancia de no adeudo de material y constancia de no adeudo de colegiaturas. Si eres extranjero, también debes incluir pasaporte y comprobante de estancia legal en el país."
+  },
+  {
+    "query": "¿Cómo debo escanear y subir los documentos?",
+    "response": "Cada documento debe escanearse por separado, directamente del original, a color y en formato PDF, con un tamaño máximo de 3 MB. No se aceptan fotos tomadas con el celular ni documentos pegados en Word. Asegúrate de que los archivos sean legibles y estén bien nombrados según el contenido."
+  },
+  {
+    "query": "¿Dónde realizo el pago y cuánto cuesta el trámite?",
+    "response": "Debes ingresar al Módulo de Egresados para descargar el formato de pago. El costo es de $24.00 para mexicanos y $120.00 para extranjeros. Puedes realizar el pago en el banco, en practicajas o mediante transferencia bancaria."
+  },
+  {
+    "query": "¿Qué hago después de subir los documentos?",
+    "response": "Después de subir y enviar tus documentos, debes dar seguimiento en el Módulo de Egresados para verificar el estado de tu trámite, que puede ser 'recibido', 'rechazado' o 'validado'. La revisión tarda de 10 a 15 días hábiles. Una vez validado, puedes solicitar la constancia de grado de maestría en trámite."
+  },
+  {
+    "query": "¿Cuándo y cómo entrego las fotografías para el título?",
+    "response": "Las tres fotografías rectangulares (4x5 cm, en blanco y negro, papel mate) se entregan al final del proceso, al momento de la firma del título. Asegúrate de que cumplan con las especificaciones indicadas."
+  },
+  {
+    "query": "¿Dónde puedo obtener más información o ayuda sobre este trámite?",
+    "response": "Puedes consultar la página del Trámite de Grado de Maestría en Línea: https://www.cseuami.org/index.php/tramite-de-grado-de-maestria o acudir al área de informes de Sistemas Escolares de tu unidad."
+  }
+],
+  "10":[
+    {
+      "query": "¿Cómo inicio el trámite para obtener mi grado de doctorado?",
+      "response": "Primero, asegúrate de haber completado todos los créditos de tu plan de estudios y de haber tramitado el Certificado Total de Estudios para cambiar tu estado académico a 'egresado'. Luego, ingresa al Módulo de Egresados con tu matrícula y contraseña para iniciar el trámite en línea. Si no puedes generar la contraseña, contacta a la Lic. Yesenia Rubí Verdejo Ramírez."
+    },
+    {
+      "query": "¿Qué documentos necesito para el trámite del grado de doctorado?",
+      "response": "Debes escanear en formato PDF y a color los siguientes documentos: comprobante de pago, acta de nacimiento, CURP, certificado de estudios de doctorado, título y cédula profesional de maestría (o resolución de revalidación de estudios para extranjeros), acta de examen de grado o acta de idónea comunicación de resultados, comprobante de acreditación de idioma, constancia de no adeudo de material, constancia de no adeudo de colegiaturas, y para extranjeros, pasaporte y comprobante de estancia legal en el país. Además, deberás entregar tres fotografías rectangulares (4x5 cm, en blanco y negro, papel mate) al final del proceso."
+    },
+    {
+      "query": "¿Cómo debo escanear y subir los documentos?",
+      "response": "Cada documento debe escanearse por separado, directamente del original, a color y en formato PDF, con un tamaño máximo de 3 MB. No se aceptan fotos tomadas con el celular ni documentos pegados en Word. Asegúrate de que los archivos sean legibles y estén bien nombrados según el contenido."
+    },
+    {
+      "query": "¿Dónde realizo el pago y cuánto cuesta el trámite?",
+      "response": "Debes ingresar al Módulo de Egresados para descargar el formato de pago. El costo es de $24.00 para mexicanos y $120.00 para extranjeros. Puedes realizar el pago en el banco, en practicajas o mediante transferencia bancaria."
+    },
+    {
+      "query": "¿Qué hago después de subir los documentos?",
+      "response": "Después de subir y enviar tus documentos, debes dar seguimiento en el Módulo de Egresados para verificar el estado de tu trámite, que puede ser 'recibido', 'rechazado' o 'validado'. La revisión tarda de 10 a 15 días hábiles. Una vez validado, puedes solicitar la constancia de grado de doctorado en trámite."
+    },
+    {
+      "query": "¿Cuándo y cómo entrego las fotografías para el título?",
+      "response": "Las tres fotografías rectangulares (4x5 cm, en blanco y negro, papel mate) se entregan al final del proceso, al momento de la firma del título. Asegúrate de que cumplan con las especificaciones indicadas."
+    },
+    {
+      "query": "¿Dónde puedo obtener más información o ayuda sobre este trámite?",
+      "response": "Puedes consultar la página del Trámite de Grado de Doctorado en Línea: https://www.cseuami.org/index.php/tramite-grado-doctorado o acudir al área de informes de Sistemas Escolares de tu unidad."
+    }
+  ],
+   "11":[
+    {
+      "query": "¿Qué son los Instructivos de Servicio?",
+      "response": "Son documentos que explican cómo funcionan y cómo se deben usar correctamente diferentes servicios e instalaciones dentro de la universidad, como laboratorios, cafetería, áreas deportivas, entre otros. Estos instructivos ayudan a que todos los usuarios conozcan las reglas y procedimientos para aprovechar estos espacios de manera adecuada."
+    },
+    {
+      "query": "¿Dónde puedo consultar los Instructivos de Servicio?",
+      "response": "Puedes consultarlos en la página de la Coordinación de Sistemas Escolares de la Unidad Iztapalapa, específicamente en la sección de Legislación, dentro del apartado 'Instructivos de Servicio'. Aquí te dejo el enlace directo: https://www.cseuami.org/index.php/legislacion/instructivos-de-servicios"
+    },
+    {
+      "query": "¿Qué servicios cuentan con instructivos disponibles?",
+      "response": "Actualmente, hay instructivos para los siguientes servicios: Actividades Deportivas, Cafetería, Laboratorios de Docencia, Lenguas Extranjeras (CELEX), Servicios Documentales y Servicios de Cómputo. Cada uno detalla las normas y procedimientos específicos para su uso."
+    },
+    {
+      "query": "¿Por qué es importante leer estos instructivos?",
+      "response": "Porque te informan sobre cómo utilizar correctamente los servicios e instalaciones, las reglas que debes seguir, los horarios disponibles y a quién acudir en caso de dudas o problemas. Esto ayuda a mantener un ambiente ordenado y seguro para todos."
+    },
+    {
+      "query": "¿Necesito algún permiso especial para usar estos servicios?",
+      "response": "Depende del servicio. Algunos pueden requerir que te registres o que cumplas con ciertos requisitos antes de usarlos. Por eso es importante leer el instructivo correspondiente para conocer los detalles específicos de cada caso."
+    },
+    {
+      "query": "¿Qué hago si tengo dudas sobre algún instructivo?",
+      "response": "Si después de leer el instructivo aún tienes preguntas, puedes acudir a la Coordinación de Sistemas Escolares de tu unidad o contactar al responsable del servicio en cuestión. Ellos podrán brindarte la información y orientación que necesites."
+    }
+  ],
+  "12":[
+    {
+      "query": "¿Qué son los lineamientos y para qué sirven?",
+      "response": "Los lineamientos son documentos que establecen las reglas y procedimientos para realizar ciertos trámites o actividades dentro de la universidad. Sirven para que tanto estudiantes como personal académico y administrativo sepan cómo actuar en situaciones específicas, asegurando que todo se haga de manera ordenada y justa."
+    },
+    {
+      "query": "¿Dónde puedo consultar los lineamientos disponibles?",
+      "response": "Puedes consultarlos en la página de la Coordinación de Sistemas Escolares de la Unidad Iztapalapa, específicamente en la sección de Legislación, dentro del apartado 'Lineamientos'. Aquí te dejo el enlace directo: https://www.cseuami.org/index.php/legislacion/lineamientos"
+    },
+    {
+      "query": "¿Qué temas abarcan los lineamientos disponibles?",
+      "response": "Actualmente, hay lineamientos para los siguientes temas: Cambio de licenciatura, Movilidad, y Conclusión de Créditos por Experiencia Laboral. Cada uno detalla los requisitos y procedimientos específicos para llevar a cabo estos trámites."
+    },
+    {
+      "query": "¿Los lineamientos son iguales para todas las divisiones académicas?",
+      "response": "No, cada división académica (CBI, CBS y CSH) puede tener lineamientos específicos para ciertos trámites. Por eso, es importante consultar los documentos correspondientes a tu división para asegurarte de seguir el procedimiento correcto."
+    },
+    {
+      "query": "¿Qué hago si tengo dudas sobre algún lineamiento?",
+      "response": "Si después de leer el lineamiento aún tienes preguntas, puedes acudir a la Coordinación de Sistemas Escolares de tu unidad o contactar al responsable del trámite en cuestión. Ellos podrán brindarte la información y orientación que necesites."
+    }
+  ],
+  "13":[
+    {
+      "query": "¿Qué son los reglamentos y para qué sirven?",
+      "response": "Los reglamentos son documentos oficiales que establecen las normas y procedimientos que deben seguirse dentro de la universidad. Sirven para garantizar que todas las actividades académicas y administrativas se realicen de manera ordenada y justa."
+    },
+    {
+      "query": "¿Dónde puedo consultar los reglamentos disponibles?",
+      "response": "Puedes consultarlos en la página de la Coordinación de Sistemas Escolares de la Unidad Iztapalapa, específicamente en la sección de Legislación, dentro del apartado 'Reglamentos'. Aquí te dejo el enlace directo: https://www.cseuami.org/index.php/legislacion/reglamentos"
+    },
+    {
+      "query": "¿Qué temas abarcan los reglamentos disponibles?",
+      "response": "Actualmente, hay reglamentos para los siguientes temas: Estudios Superiores, Alumnado, Diplomados, Servicio Social a Nivel de Licenciatura, y Revalidación, Establecimiento de Equivalencias y Acreditación de Estudios. Cada uno detalla las normas y procedimientos específicos para llevar a cabo estas actividades."
+    },
+    {
+      "query": "¿Por qué es importante conocer estos reglamentos?",
+      "response": "Porque te informan sobre tus derechos y obligaciones como estudiante, y te ayudan a entender cómo funcionan los diferentes procesos dentro de la universidad. Esto te permite tomar decisiones informadas y evitar problemas por desconocimiento de las normas."
+    },
+    {
+      "query": "¿Qué hago si tengo dudas sobre algún reglamento?",
+      "response": "Si después de leer el reglamento aún tienes preguntas, puedes acudir a la Coordinación de Sistemas Escolares de tu unidad o contactar al responsable del trámite en cuestión. Ellos podrán brindarte la información y orientación que necesites."
+    }
+  ]  
+}
