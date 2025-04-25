@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Word Embedding Visualization</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="panel left-panel">
+            <h1>Controls</h1>
+
+            <div class="control-section">
+                <label for="file-input">Load Embeddings (.txt):</label>
+                <input type="file" id="file-input" accept=".txt">
+            </div>
+
+            <div class="control-section">
+                <button id="toggle-dim">Switch to 3D Plot</button>
+                <span id="current-dim">Current: 2D</span>
+            </div>
+
+            <div class="control-section vector-arithmetic">
+                <h2>Vector Arithmetic</h2>
+                <label for="arithmetic-input">Expression (e.g., king - man + woman):</label>
+                <input type="text" id="arithmetic-input" placeholder="king - man + woman">
+                <button id="calculate-arithmetic">Calculate & Highlight</button>
+                <p>Result: <strong id="arithmetic-result">N/A</strong></p>
+            </div>
+
+             <div class="control-section">
+                 <h2>Status</h2>
+                 <div id="status">Ready. Load an embedding file.</div>
+             </div>
+        </div>
+
+        <div class="panel right-panel">
+            <div id="plot"></div>
+        </div>
+    </div>
+
+    <!-- Libraries -->
+    <script src="tsne.js"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script> <!-- Or local file -->
+
+    <!-- Main App Logic -->
+    <script src="script.js"></script>
+</body>
+</html>
