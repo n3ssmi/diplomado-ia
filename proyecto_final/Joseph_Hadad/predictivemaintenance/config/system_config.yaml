@@ -1,0 +1,7 @@
+anomaly_threshold: 0.1
+auto_remediation: false
+execution_mode: simulation
+prediction_horizon: 8
+prediction_interval: 1800
+prediction_threshold: 0.4
+processing_interval: 5
