@@ -1,0 +1,6 @@
+Mis datos y diferentes modelos están muy grandes pa subirse a github dejo un link de drive con todos los archivos
+
+https://drive.google.com/file/d/1XHnY3M9y9n1W_3IOB_fXRM56XS4RssHz/view?usp=sharing
+
+link solo de los datos de entrenamiento
+https://storage.googleapis.com/magentadata/datasets/maestro/v2.0.0/maestro-v2.0.0-midi.zip
