@@ -1,0 +1,166 @@
+Prueba 1:
+  Vocal: uh
+  F1 Promedio: 654 Hz
+  F2 Promedio: 2191 Hz
+  Palabra: but
+  Score F1: 100.00
+  Score F2: 100.00
+  Mean Score: 100.00
+  Temperatura: 0.82
+  Prompt:
+La vocal //ʌ// fue pronunciada con F1=654Hz y F2=2191Hz. Para esta vocal, el valor esperado de F1 es 500Hz. La palabra practicada fue 'but'. Brinda una sugerencia específica para corregir el valor de F1.
+Respuesta:
+  
+La vocal //ʌ// fue pronunciada con F1=654Hz y F2=2191Hz. Para esta vocal, el valor esperado de F1 es 500Hz. La palabra practicada fue 'but'. Brinda una sugerencia específica para corregir el valor de F1.
+Respuesta: La vocal fue /ɪ/ con F1=462Hz y F2=2268Hz. -> Estás practicando el sonido de la palabra 'bit'. La apertura de la boca está bastante bien. La posición de la lengua está bien.
+La vocal fue
+----------------------------------------
+Prueba 2:
+  Vocal: uh
+  F1 Promedio: 597 Hz
+  F2 Promedio: 2203 Hz
+  Palabra: cat
+  Score F1: 100.00
+  Score F2: 100.00
+  Mean Score: 100.00
+  Temperatura: 0.85
+  Prompt:
+La vocal //ʌ// fue pronunciada con F1=597Hz y F2=2203Hz. Para esta vocal, el valor esperado de F1 es 500Hz. La palabra practicada fue 'cat'. Brinda una sugerencia específica para corregir el valor de F1.
+Respuesta:
+  
+La vocal //ʌ// fue pronunciada con F1=597Hz y F2=2203Hz. Para esta vocal, el valor esperado de F1 es 500Hz. La palabra practicada fue 'cat'. Brinda una sugerencia específica para corregir el valor de F1.
+Respuesta: La vocal fue /ʌ/ con F1=598Hz y F2=1398Hz. -> Estás practicando el sonido de la palabra 'cut'. La apertura de la boca está bastante bien. Relaja la lengua o llévala un poco hacia atr
+----------------------------------------
+Prueba 3:
+  Vocal: ih
+  F1 Promedio: 601 Hz
+  F2 Promedio: 2249 Hz
+  Palabra: hat
+  Score F1: 100.00
+  Score F2: 100.00
+  Mean Score: 100.00
+  Temperatura: 0.81
+  Prompt:
+La vocal //ɪ// fue pronunciada con F1=601Hz y F2=2249Hz. Para esta vocal, el valor esperado de F1 es 500Hz. La palabra practicada fue 'hat'. Brinda una sugerencia específica para corregir el valor de F1.
+Respuesta:
+  
+La vocal //ɪ// fue pronunciada con F1=601Hz y F2=2249Hz. Para esta vocal, el valor esperado de F1 es 500Hz. La palabra practicada fue 'hat'. Brinda una sugerencia específica para corregir el valor de F1.
+Respuesta: La vocal fue /ʌ/ con F1=673Hz y F2=1258Hz. -> Estás practicando el sonido de la palabra 'cut'. La apertura de la boca está bastante bien. La posición de la lengua está bien.
+La vocal fue
+----------------------------------------
+Prueba 4:
+  Vocal: ih
+  F1 Promedio: 610 Hz
+  F2 Promedio: 2165 Hz
+  Palabra: bought
+  Score F1: 100.00
+  Score F2: 100.00
+  Mean Score: 100.00
+  Temperatura: 0.35
+  Prompt:
+La vocal //ɪ// fue pronunciada con F1=610Hz y F2=2165Hz. Para esta vocal, el valor esperado de F1 es 500Hz. La palabra practicada fue 'bought'. Brinda una sugerencia específica para corregir el valor de F1.
+Respuesta:
+  
+La vocal //ɪ// fue pronunciada con F1=610Hz y F2=2165Hz. Para esta vocal, el valor esperado de F1 es 500Hz. La palabra practicada fue 'bought'. Brinda una sugerencia específica para corregir el valor de F1.
+Respuesta: La vocal fue /æ/ con F1=622Hz y F2=2187Hz. -> Estás practicando el sonido de la palabra 'cat'. La apertura de la boca está bastante bien. La posición de la lengua está bien.
+La vocal fue
+----------------------------------------
+Prueba 5:
+  Vocal: uh
+  F1 Promedio: 617 Hz
+  F2 Promedio: 2135 Hz
+  Palabra: cot
+  Score F1: 100.00
+  Score F2: 100.00
+  Mean Score: 100.00
+  Temperatura: 0.77
+  Prompt:
+La vocal //ʌ// fue pronunciada con F1=617Hz y F2=2135Hz. Para esta vocal, el valor esperado de F1 es 500Hz. La palabra practicada fue 'cot'. Brinda una sugerencia específica para corregir el valor de F1.
+Respuesta:
+  
+La vocal //ʌ// fue pronunciada con F1=617Hz y F2=2135Hz. Para esta vocal, el valor esperado de F1 es 500Hz. La palabra practicada fue 'cot'. Brinda una sugerencia específica para corregir el valor de F1.
+Respuesta: La vocal fue /ɪ/ con F1=451Hz y F2=2163Hz. -> Estás practicando el sonido de la palabra 'bit'. La apertura de la boca está bastante bien. La posición de la lengua está bien.
+La vocal fue
+----------------------------------------
+Prueba 6:
+  Vocal: ae
+  F1 Promedio: 664 Hz
+  F2 Promedio: 2066 Hz
+  Palabra: cat
+  Score F1: 100.00
+  Score F2: 100.00
+  Mean Score: 100.00
+  Temperatura: 0.43
+  Prompt:
+La vocal //æ// fue pronunciada con F1=664Hz y F2=2066Hz. Para esta vocal, el valor esperado de F1 es 500Hz. La palabra practicada fue 'cat'. Brinda una sugerencia específica para corregir el valor de F1.
+Respuesta:
+  
+La vocal //æ// fue pronunciada con F1=664Hz y F2=2066Hz. Para esta vocal, el valor esperado de F1 es 500Hz. La palabra practicada fue 'cat'. Brinda una sugerencia específica para corregir el valor de F1.
+Respuesta: La vocal fue /æ/ con F1=622Hz y F2=2146Hz. -> Estás practicando el sonido de la palabra 'cat'. La apertura de la boca está bastante bien. La posición de la lengua está bien.
+La vocal fue
+----------------------------------------
+Prueba 7:
+  Vocal: uh
+  F1 Promedio: 590 Hz
+  F2 Promedio: 2330 Hz
+  Palabra: bought
+  Score F1: 100.00
+  Score F2: 100.00
+  Mean Score: 100.00
+  Temperatura: 0.42
+  Prompt:
+La vocal //ʌ// fue pronunciada con F1=590Hz y F2=2330Hz. Para esta vocal, el valor esperado de F1 es 500Hz. La palabra practicada fue 'bought'. Brinda una sugerencia específica para corregir el valor de F1.
+Respuesta:
+  
+La vocal //ʌ// fue pronunciada con F1=590Hz y F2=2330Hz. Para esta vocal, el valor esperado de F1 es 500Hz. La palabra practicada fue 'bought'. Brinda una sugerencia específica para corregir el valor de F1.
+Respuesta: La vocal fue /æ/ con F1=621Hz y F2=2191Hz. -> Estás practicando el sonido de la palabra 'cat'. La apertura de la boca está bastante bien. La posición de la lengua está bien.
+La vocal fue
+----------------------------------------
+Prueba 8:
+  Vocal: ih
+  F1 Promedio: 594 Hz
+  F2 Promedio: 2263 Hz
+  Palabra: bought
+  Score F1: 100.00
+  Score F2: 100.00
+  Mean Score: 100.00
+  Temperatura: 0.71
+  Prompt:
+La vocal //ɪ// fue pronunciada con F1=594Hz y F2=2263Hz. Para esta vocal, el valor esperado de F1 es 500Hz. La palabra practicada fue 'bought'. Brinda una sugerencia específica para corregir el valor de F1.
+Respuesta:
+  
+La vocal //ɪ// fue pronunciada con F1=594Hz y F2=2263Hz. Para esta vocal, el valor esperado de F1 es 500Hz. La palabra practicada fue 'bought'. Brinda una sugerencia específica para corregir el valor de F1.
+Respuesta: La vocal fue /æ/ con F1=622Hz y F2=2160Hz. -> Estás practicando el sonido de la palabra 'cat'. La apertura de la boca está bastante bien. Mueve la lengua un poco más hacia adelante.
+----------------------------------------
+Prueba 9:
+  Vocal: uh
+  F1 Promedio: 614 Hz
+  F2 Promedio: 2163 Hz
+  Palabra: bought
+  Score F1: 100.00
+  Score F2: 100.00
+  Mean Score: 100.00
+  Temperatura: 0.55
+  Prompt:
+La vocal //ʌ// fue pronunciada con F1=614Hz y F2=2163Hz. Para esta vocal, el valor esperado de F1 es 500Hz. La palabra practicada fue 'bought'. Brinda una sugerencia específica para corregir el valor de F1.
+Respuesta:
+  
+La vocal //ʌ// fue pronunciada con F1=614Hz y F2=2163Hz. Para esta vocal, el valor esperado de F1 es 500Hz. La palabra practicada fue 'bought'. Brinda una sugerencia específica para corregir el valor de F1.
+Respuesta: La vocal fue /æ/ con F1=633Hz y F2=2157Hz. -> Estás practicando el sonido de la palabra 'cat'. Intenta abrir un poco más la boca para este sonido. Mueve la lengua un poco más hacia adel
+----------------------------------------
+Prueba 10:
+  Vocal: ae
+  F1 Promedio: 639 Hz
+  F2 Promedio: 2290 Hz
+  Palabra: beet
+  Score F1: 100.00
+  Score F2: 100.00
+  Mean Score: 100.00
+  Temperatura: 0.94
+  Prompt:
+La vocal //æ// fue pronunciada con F1=639Hz y F2=2290Hz. Para esta vocal, el valor esperado de F1 es 500Hz. La palabra practicada fue 'beet'. Brinda una sugerencia específica para corregir el valor de F1.
+Respuesta:
+  
+La vocal //æ// fue pronunciada con F1=639Hz y F2=2290Hz. Para esta vocal, el valor esperado de F1 es 500Hz. La palabra practicada fue 'beet'. Brinda una sugerencia específica para corregir el valor de F1.
+Respuesta: la vocal fue /ʌ/ con F1=653Hz y F2=1291Hz. -> Estás practicando el sonido de la palabra 'cut'. La apertura de la boca está bastante bien. Relaja la lengua o llévala un poco hacia atr
+----------------------------------------
