@@ -1,0 +1,34 @@
+Proyecto: Implementación de Newsletter y Chatbot sobre Productos Financieros de BBVA
+
+Contexto y motivación
+El sector bancario vive una rápida adopción de herramientas basadas en IA generativa para mejorar la comunicación con sus clientes. Dado el contexto que hemos tenido en la vida laboral previa y actual, desarrollamos este proyectocon el fin de comprender nuevas prácticas y herramientas para poner en producción un LLM que pueda generar contenido de difusión de información y otro para construir un chatbot interactivo que responda preguntas de los productos financieros de BBVA.
+
+El contexto técnico del equipo es que ambos hemos trabajado en sectores bancarios e incluso en desarrollo de chatbots previo a que las LLM fueran tan populares. Debido a esto queremos mejorar y actualizar nuestras habilidades y conocimientos de herramientas que puedan ser útiles no solo para este contexto pero para cualquier aplicación con casos de uso semejantes.
+
+Descripción de las dos partes del proyecto
+Newsletter
+
+Motor: modelo GPT-2 fine-tuneado con corpus propio extraído de la oferta de BBVA.
+
+Función: generar preuntas y respuestas de distintas dudas que un cliente pueda tener a manera de newsletter calendarizado
+
+Chatbot
+
+Motor: modelo GPT4 (sin fine-tuning).
+
+Función: responder en tiempo real a preguntas específicas de usuarios sobre los mismos productos, enlazando a la información detallada provista en el newsletter.
+
+Justificación técnica y de negocio
+
+Ventaja competitiva: Al combinar generación proactiva (newsletter) con asistencia reactiva (chatbot), una entidad bancaria, como BBVA, podría cubrir todo el ciclo de atención informativa: descubrimiento, comparación y aclaración de dudas.
+
+Eficiencia operativa: Automatizar la redacción de boletines y la atención básica reduce tiempos y costos respecto a los procesos manuales actuales.
+
+Conclusión
+El proyecto capitaliza nuestra experiencia complementaria para introducir soluciones de IA generativa aplicada en distintos aspectos.  
+
+Dificultades
+La principal dificultad del proyecto fue la parte económica. Hay que considerar que para interactuar con un LLM hace falta hardware o un SaaS capaz de manejar grandes volumenes de datos, transacciones y finalmente el costo de generación de respuestas por tokens impuestos por la API de OpenAI. Esto fue un impedimento para el rápido desarrollo y mejora de implementaciones de los proyectos.
+
+Posibles Mejoras
+Se propone a futuro implementar las mejores técnicas de LLMOps para poder mejorar el rendimiento y hacer una puesta en producción ética. Entre otras cosas se deben ajustar casos como la alucinación del modelo, los prompts inadecuados en materia de violencia y discriminación, centrar el uso correcto del modelo evitando sesgos en preguntas o preguntas fuera del contexto bancario, evaluación de diferentes métricas como groundedness o coherencia, etc... 
