@@ -1,0 +1,1121 @@
+<|startoftext|>
+[CONDITION]: smoking
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello. Anxiety can manifest itself in physical or psychological symptoms or both. The irritation sensation you are experiencing is a part of your anxiety. Also please do not believe the hype about covid. It has a low mortality rate, of 2-3 percent, that too mortality is very high in people above 60-70 years with other co-morbidities. You do not have any such disorders and you have not even been in contact with anyone, so do not worry.
+Please continue to take your medicines for anxiety if you are taking them, if not, please consider visiting a psychiatrist and get started on some low dose SSRI type of medicines. Also, if needed a low dose Benzodiazepines can be added temporarily. Also, please do some deep breathing exercises, or progressive muscle relaxation. You can also take some honey with water to reduce the itching in the throat and also try doing some gargles with lukewarm salt water.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: sex
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: In brief: Sort of
+If you are having sex with someone who has Covid-19 you are quite at risk of getting it.
+High likelihood if kissing and having intercourse but it may not be transmitted through intercourse but the closeness in an intimate situation like that with someone who is infected gives a high likelihood of transmission.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: asthma
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: In brief: COVID-19 and Asthma
+Great question. Yes asthma is a chronic lung disease which carries some increased risk with COVID-19.
+Good asthma control along with good handwashwng, social distancing avoiding unnecessary travel along with your young age should keep your risk of complications low. Smoking, hypertension, diabetes, obesity or compromised immune system are also risk factors to be considered.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: asthma
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: In brief: Maybe
+Being over 50 with a medical condition like intermittent asthma makes you at higher risk for any respiratory illness including COVID19.
+It appears to be less an issue for children and youth.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: asthma
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: In brief: Not quite that way
+People with chronic lung problems do worse in a lung disease outbreak.
+For one specific person... well, there's no way to guess. "People" in general do worse if they have UNcontrolled lung disease. That means it's likely that asthmatics using inhaled steroids to give them good disease control will be BETTER OFF than asthmatics who use steroids but still cannot get good control. Be in good control.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: sex
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: In brief: Sort of
+If you are having sex with someone who has Covid-19 you are quite at risk of getting it.
+High likelihood if kissing and having intercourse but it may not be transmitted through intercourse but the closeness in an intimate situation like that with someone who is infected gives a high likelihood of transmission.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello,
+ * The pneumonia shot per se is not responsible for high WBC count, but as you are telling there are soreness and bad feeling at the injection site over arm, there are all possibilities that you have cellulitis or possible abscess formation at the injection site; which will recruit neutrophils at the site and cause secondary rise in WBC count.
+ * Primary relief with ice application and secondary management with systemic antibiotics and anti-inflammatory medicines with your doc.
+ Hope I have answered your query. Let me know if I can assist you further.
+ Take care
+ Regards,
+Dr Bhagyesh V. Patel, General Surgeon
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello,
+ * The pneumonia does not give rise to red urine called hematuria.
+* There can be possible causes for red blood cells in the urine as
+ - uncontrolled urinary tract infection
+- kidney damage via systemic sepsis
+- abnormal clotting factors or platelet function
+- side effects of drugs
+- dehydration related
+- secondary effects of diabetes
+- others
+ * Kindly share all reports if available with you for further discussion ahead and guide in details.
+ Hope I have answered your query. Let me know if I can assist you further.
+ Take care
+ Regards,
+Dr Bhagyesh V. Patel, General Surgeon
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: HelloAs you explain the situation yes it might be that in pneumonia to have blood with the cough and especially if you take blood thinners do not worry.However of it last for several days than better to talk with your treating doctor for this for safety.RegardsDr.Jolanda
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello,
+ As you explain the situation, unfortunately, there is no home treatment for pneumonia. I strongly recommend you to go to the hospital as an emergency which is free mostly.
+ Hope I have answered your query. Let me know if I can assist you further.
+ Regards,
+Dr. Jnikolla, Pulmonologist
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello,
+ These symptoms last for 3-4 weeks. So no need to worry if fever is not there. 
+ Hope I have answered your query. Let me know if I can assist you further.
+ Take care
+ Regards,
+Dr Kaushal Bhavsar, Pulmonologist
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hi,
+ Yes, you should definitely take him to the hospital, seeing that he is especially vulnerable as a heart transplant recipient. 
+ Hope I have answered your query. Let me know if I can assist you further.
+ Regards,
+Dr. Anders Mark Christensen, General Surgeon
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello,
+ Usually, he is contagious one week before treatment and until three days after treatment.
+ Hope I have answered your query. Let me know if I can assist you further.
+ Take care
+ Regards,
+Dr Jnikolla, Pulmonologist
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello,
+ According to the history you prescribed he needs a chest CT to evaluate better the situation.
+ Hope I have answered your query. Let me know if I can assist you further.
+ Regards,
+Dr. Jnikolla, Pulmonologist
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello,
+ As you explain the situation I strongly recommend you to send him to the doctor for a re-evaluation of the situation.
+ Hope I have answered your query. Let me know if I can assist you further.
+ Regards,
+Dr. Jnikolla, Pulmonologist
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello,
+ As you explain the history you don't have to worry you are in the phase of improvement just so correctly the treatment.
+ Hope I have answered your query. Let me know if I can assist you further.
+ Regards,
+Dr. Jnikolla, Pulmonologist
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello,
+ As you explain the history for giving you a correct opinion I should see his chest X-ray and blood tests.
+ Hope I have answered your query. Let me know if I can assist you further.
+ Take care
+ Regards,
+Dr Jnikolla, Pulmonologist
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: intubated
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello and Welcome to â€˜Ask A Doctorâ€™ service. I have reviewed your query and here is my advice.
+ Spirometry exercise would be better for her and anti-fungal treatment should be done with other bronchodilator medication and supportive Rx.
+ Hope I have answered your query. Let me know if I can assist you further.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello,
+ As you explain the long history you should absolutely believe in your treating doctor and follow his instructions.
+ Hope I have answered your query. Let me know if I can assist you further.
+ Take care
+ Regards,
+Dr Jnikolla, Pulmonologist
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello,
+ The cause of chronic pneumonia is mandatory to be evaluated here with culture of bronchial lavage fluid, CT scan of the thorax and other supportive evaluations.
+ Unless the root cause is identified, one cannot get the complete management chart.
+ Hope I have answered your query. Feel free to post further doubts.
+ Thank you.
+ Regards,
+Dr. Bhagyesh V. Patel, General Surgeon
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello, For Tuberculosis, AKT needs to be started. So confirm tuberculosis by sputum AFB stain and culture. If tuberculosis confirmed, then AKT should be started. And it is to be taken for around six months. Provide reports if available. Hope I have answered your query. Let me know if I can assist you further. Regards,Dr. Parth Goswami
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hi,
+ In such conditions we recommend another class of antibiotics but in the survey of the allergologist who should monitor closely the patient's situation. 
+ Hope I have answered your query. Let me know if I can assist you further.
+ Regards,
+Dr. Jnikolla, 
+Pulmonologist
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hi,
+ Yes, it might be that after the pneumonia the recovery time lasts up to one week however I recommend you to do a chest CT to see if the pneumonia has gone completely.
+ Hope I have answered your query. Let me know if I can assist you further.
+ Regards,
+Dr. Jnikolla,
+Pulmonologist
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello and Welcome to â€˜Ask A Doctorâ€™ service. I have reviewed your query and here is my advice.
+ * As far as my clinical experience is concerned, the intensity of the symptoms are not under control with oral antibiotics.
+* In our clinic, I recommend the patient to get hospital admission, start intravenous antibiotics, broncho dilators and other supportive measures to control the same. Do give me further chance to assist in future.
+ Hope I have answered your query. Let me know if I can assist you further.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello and Welcome to â€˜Ask A Doctorâ€™ service. 
+I have reviewed your query and here is my advice.
+ Yes, you are right. If you don't pay attention in common cold, it can complicate as pneumonia. So follow these steps for better symptomatic relief in common cold. 
+1. Drink plenty of fluids orally and keep yourself hydrated.
+2. Do warm water gargles and steam inhalation 4-5 times a day.
+3. Avoid cold foods like ice cream, cold drinks etc.
+4. Take treatment for common cold regularly.
+5. Watch for persistent fever, chest pain, Yellowish green expectoration, breathing difficulty etc. If any of these symptom appears then immediately get done chest x ray.
+6. Avoid smoking and alcohol if you have these habits.
+ Hope I have answered your query. 
+Let me know if I can assist you further.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello and Welcome to â€˜Ask A Doctorâ€™ service. I have reviewed your query and here is my advice.
+ She is already suffering from COPD (chronic obstructive Pulmonary disease). And pneumonia can be severe in already compromised lungs. So pneumonia in COPD patients should be treated promptly. And hence she needs hospital admission, Intravenous antibiotics, anti pyretic, Intravenous fluids and other supportive drugs. So better to admit her and start appropriate treatment.
+ Hope I have answered your query. Let me know if I can assist you further.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello and Welcome to â€˜Ask A Doctorâ€™ service. I have reviewed your query and here is my advice.
+ According to the chest X-ray results, this is an infection of the lung tissue. Don't worry. In this case, antibiotics are given. Consult your doctor.
+ Regards.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello and Welcome to â€˜Ask A Doctorâ€™ service. I have reviewed your query and here is my advice.
+ Though this question requires all reports as scanned copy to be evaluated, with provided data I can suggest that
+- Any of the treatment would be supportive only for advanced case of liver cancer, it is not going to be curative.
+ Thanks.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello and Welcome to â€˜Ask A Doctorâ€™ service. 
+I have reviewed your query and here is my advice.
+ * The pneumonia management depends upon the symptoms which are not narrated here precisely.
+* The Methadone is known to cause long terms side effects over liver, kidney and other body systems, which should be discussed with the   treating physician.
+ Awaiting for the symptomatic details to guide further.
+ Hope I have answered your query. Let me know if I can assist you further.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello and Welcome to â€˜Ask A Doctorâ€™ service. I have reviewed your query and here is my advice.
+ According to the history it might be a viral situation or an allergy.  Don't worry so much she is under medical control.
+ Regards 
+ Dr.Jolanda
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello and Welcome to â€˜Ask A Doctorâ€™ service. 
+I have reviewed your query and here is my advice.
+ * The Nyquil with its components help to relieve congestion, body ache, allergy related uneasiness.
+* It is not a substitute for steroid, but will help definitely in your case for symptoms control.
+ Wish you fine recovery.
+Take care.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello and Welcome to â€˜Ask A Doctorâ€™ service. 
+I have reviewed your query and here is my advice.
+ Yes, she can safely do the chest CT. There is not any contraindication of doing it in pneumonia.
+ Regards,
+Dr.Jolanda
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello and Welcome to â€˜Ask A Doctorâ€™ service. I have reviewed your query and here is my advice.
+ Recurrent chest infections in asthma patients can cause bronchitis. So better to consult pulmonologist and get done clinical examination of respiratory system and PFT (Pulmonary Function Test). PFT will not only diagnose bronchitis but it will also tell you about severity of the disease and treatment is based on severity only. You will mostly improve with inhaled bronchodilators (Formoterol or Salmeterol) and inhaled corticosteroid (ICS) (Budesonide or Fluticasone). Don't worry, you will be alright with all these. 
+ Hope I have solved your query. I will be happy to help you further. 
+ Wish you good health! 
+ Thanks.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello and Welcome to â€˜Ask A Doctorâ€™ service. I have reviewed your query and here is my advice.
+ Levofloxacin is generally advised once a day. It's very effective for pneumonia. The dose is generally to be taken once a day for arrest 10 days. This can be up to 14 days for some. patients.so yes give him one tablet daily for 6 more days.this hopefully would be enough for his pneumonia.
+ Hope I have answered your query. Let me know if I can assist you further.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello As you explain the history it might be a gastric reflux present that has caused the pneumonia. Discuss with his doctor. Regards Dr.Jolanda
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello and Welcome to â€˜Ask A Doctorâ€™ service. I have reviewed your query and here is my advice.
+ In my opinion, you should definitely consult pulmonologist for this pain. You will need a chest X-ray and PFT (Pulmonary Function Test). A chest X-ray is needed to rule out recurrence of pneumonia because this can also cause similar kind of pain. PFT is needed to know the severity of asthma. You may need inhaled bronchodilators (Formoterol or Salmeterol) and inhaled corticosteroids (ICS) (Budesonide or Fluticasone). Don't worry, you will be alright with all these. 
+ Hope I have solved your query. I will be happy to help you further. Wish you good health. Thanks.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello and Welcome to â€˜Ask A Doctorâ€™ service. I have reviewed your query and here is my advice.
+ Pneumonia can cause pleurisy (inflammation of pleura) and this can cause similar kind of pain. So in my opinion, you should first get the chest X-ray done. If the chest X-ray is worsening, then your pain is due to pneumonia and you will need higher antibiotics. But if the chest X-ray is improving, then possibility of musculoskeletal pain is more likely. So apply warm water pad on the affected areas. Avoid movements causing pain. Avoid sudden jerky movements of the chest. Take simple painkillers and muscle relaxant drugs like Ibuprofen and Thiocolchicoside. Don't worry, you will be alright with all these. 
+ Hope I have solved your query. I will be happy to help you further. Wish you good health. Thanks.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello and Welcome to â€˜Ask A Doctorâ€™ service.I have reviewed your query and here is my advice.If your mother is on a ventilator due to pneumonia, then 1. ET tube sputum for culture and sensitivity 2. Higher antibiotics 3. Monitoring of BP and O2 4. She will improve when best intensivist will see this case  Hope I have answered your query. Let me know if I can assist you further.Regards, Dr. Chandra Shekhar
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello and Welcome to â€˜Ask A Doctorâ€™ service.I have reviewed your query and here is my advice.Imodium is having loperamide. It is not a good drug for diarrhea. So you should not take it. You should definitely take probiotics as they are the first line treatment for diarrhea. Along with probiotics, eat more curd and yogurt. Avoid oily and spicy food. Avoid junk food. Drink oral re-hydration solution (ORS) and zinc tablet. Don't worry, you will be alright with all these. Hope I have answered your query. Let me know if I can assist you further.Regards, Dr. Kaushal Bhavsar
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello and Welcome to â€˜Ask A Doctorâ€™ service.I have reviewed your query and here is my advice.Though BOOP (Bronchiolitis obliterans organizing pneumonia ) is serious lung inflammatory condition, 65 - 80% of patients do respond well with corticosteroid therapy and cure. It is the remaining 20% of fatal cases which progress rapidly and have adverse outcomes.So, I do recommend to discuss the case and prognosis in details with his treating physician. Hope I have answered your query. Let me know if I can assist you further.Regards, Â Â Â Â Â Dr. Bhagyesh V. Patel
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello and Welcome to â€˜Ask A Doctorâ€™ service.I have reviewed your query and here is my advice.Maybe pneumonia didn't resolve. You have to change medications. Add Azithromycin, syrup Ascoril thrice and tablet Pantop D twice. Also take Mucaine gel twice. Hope I have answered your query. Let me know if I can assist you further.Regards, Â Â Â Â Â Dr. Chandra Shekhar
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello and Welcome to â€˜Ask A Doctorâ€™ service.I have reviewed your query and here is my advice.Pneumonia causes pleurisy (inflammation of pleura). So chest pain is commonly seen with pneumonia and anti-inflammatory painkiller drugs like paracetamol or ibuprofen should be tried. You can also apply warm water pad on affected areas of the chest. Once your pneumonia is cured, your pain will definitely subside. Mucinex is a good drug for pneumonia. It actually dilutes the secretions and made them easy to cough out. So continue with Mucinex. Hope I have answered your query. Let me know if I can assist you further.Regards, Â Â Â Â Â Dr. Kaushal Bhavsar
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello,To be honest, there is a chance of cross infection from one person to another. However, this depends on so many factors and most of the infections, especially bacterial pneumonia, do not transmit easily. If more than one arm distance, the chance is very little and if not too close (like kissing etc.) the chance is further reduced. If two of them are already on antibiotics, as in your case, there is a chance but in the setting what u described, it is extremely unlikely. Hope I have answered your query. Let me know if I can assist you further.Regards, Â Â Â Â Â Dr. Mahboob Ur Rahman
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello,Any infection if severe can suppress bone marrow. And this is responsible for low WBC (white blood cells) count. So better to start injectable antibiotics for control of infection. She may need leucovorin injection to stimulate bone marrow for producing WBCs. Once her infection is controlled, she will have a normal WBC count. Hope I have answered your query. Let me know if I can assist you further.Regards,Dr. Kaushal Bhavsar
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello and Welcome to â€˜Ask A Doctorâ€™ service.I have reviewed your query and here is my advice.Yes, CPAP machine if not properly maintained can cause pneumonia. Actually, there are a lot of things in CPAP machine that can be infected.Things like tubing, mask, and filters etcetera are very prone to infection. So, proper care should be taken to prevent infections from these parts.Better to ask CPAP provider to check all these parts and if infected replace them.Hope I have answered your query. Let me know if I can assist you further.Regards,Dr. Kaushal Bhavsar
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello and Welcome to â€˜Ask A Doctorâ€™ service.I have reviewed your query and here is my advice.Pneumococcal vaccine is protective against 23 types of Streptococcus pneumonia bacteria. This bacteria is the most common organism (80% cases) for pneumonia.But there are other bacterias which can cause pneumonia. And in such cases, pneumococcal vaccine is not protective.So you and your brother might be having some other bacterial pneumonia. Second-hand smoking is also a contributing factor to your pneumonia.Hope I have answered your query. Let me know if I can assist you further.Regards,Dr. Kaushal Bhavsar
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello and Welcome to â€˜Ask A Doctorâ€™ service.I have reviewed your query and here is my advice.As per your history and description, the possibility of end-stage heart disease leads to heart failure is more likely. Surgical treatment is best for this. So try to get it done urgently as soon as possible.Diuretics and other cardiac supportive drugs are advisable until surgery. So better to consult the cardiologist and try for early surgery.Hope I have answered your query. Let me know if I can assist you further.Regards,Dr. Kaushal Bhavsar
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello,CT scan is diagnostic for interstitial lung disease (ILD). It can develop after the age of 60 years especially if the patient is having bronchitis and recurrent pneumonia.Yes, you are right about survival. It is not having a good prognosis.But, now dayâ€™s newer treatments like Pirfenidone and N acetylcysteine (NAC) drugs are available. So consult pulmonologist and discuss these newer treatments.Hope I have answered your query. Let me know if I can assist you further.Regards,Dr. Kaushal Bhavsar
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello,After a long chronic disease, there is hair fall present, it is normal but you have a lump, and it is back, maybe it is a lipoma or subcutaneous abscess.You have to investigate all these things like serum biotin level, zinc level, FNAC of that lump after USG. Till then take tablet Astymin M forte for three months at least and biotin-rich foods.Hope I have answered your query. Let me know if I can assist you further.Regards,Dr. Chandra Shekhar
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello,Go for vaccinations given below:- flu vaccine- staphylococcal vaccine - improve immunity Do exercise daily and take citrus food. Rule out diabetes.Hope I have answered your query. Let me know if I can assist you further.Regards,Dr. Chandra Shekhar
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello,These are the best management frame work for your son, which is including antibiotic, decongestant, anti-pyretic, bronchodilator medications needed to cure the issue.Be in regular follow up with your doctor, he will be recovered within some time.Hope I have answered your query. Let me know if I can assist you further.Regards,Dr. Bhagyesh V. Patel
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello,The most possible issue here is systemic manifestation of underlying infection in form of sepsis, side effects of medicines currently used or others.In our clinic, we recommend thorough work up with lab tests and guide to manage in accordance.Hope I have answered your query. Let me know if I can assist you further.Regards,Dr. Bhagyesh V. Patel
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello,The tobacco with or without seeds will contribute to bronchi spasm effects and hamper the pneumonia condition to a great extent. In our clinic, we strongly recommend quitting all tobacco items till complete recovery.Hope I have answered your query. Let me know if I can assist you further.Regards,  Dr. Bhagyesh V. Patel
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello,Since, you are feeling better after albuterol (inhaled bronchodilator), possibility of bronchitis (inflammation of airways) is more likely for your symptoms.Bronchitis is common after lung infection (pneumonia). So, it is better to consult pulmonologist and get done clinical examination of respiratory system and PFT (Pulmonary Function Test).PFT will not only diagnose bronchitis but it will also tell you about severity of the disease and treatment is based on severity only.You will mostly improve with inhaled bronchodilators (formoterol or salmeterol) and inhaled corticosteroid (ICS) (budesonide or fluticasone).Hope I have answered your query. Let me know if I can assist you further.Regards,Dr. Kaushal Bhavsar
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello,For your pneumonia, complete the course of antibiotic. Sputum culture and examination done if needed to do further work up.If your cough is not expelled properly, then cough expectorant syrup containing Ambroxol plus Terbutaline drug can be prescribed. Kindly attach your reports for giving more comment.Hope I have answered your query. Let me know if I can assist you further.Regards,Dr. Parth Goswami
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello,In my opinion, you should definitely consult a pulmonologist. There are two main possibilities for your symptoms. 1. Lung infection (pneumonia).2. Worsening of asthma.So you will need a chest x-ray and PFT (Pulmonary Function Test). A chest x-ray is needed to rule out lung infection. PFT is needed to know the severity of asthma. You may need antibiotics, longer acting inhaled bronchodilators (formoterol or salmeterol) and inhaled corticosteroid (ICS) (budesonide or fluticasone).Don't worry you will be alright with all these.Hope I have answered your query. Let me know if I can assist you further.Regards, Dr. Kaushal Bhavsar
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello,According to history, yes, it might beÂ pneumonia,Â but you should do a chest x-ray.Â Hope I have answered your query. Let me know if I can assist you further.Regards,Dr. Jnikolla
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello,She requires ICU care as per the symptomatic details. Stephens is right place for her; you will get pulmonologist there to take care of the issue.She has to be shifted with ICU on wheels along with ventilator support. Cost there has to be inquired.Hope I have answered your query. Let me know if I can assist you further.Regards,Dr. Bhagyesh V. Patel
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Thanks for your question on Healthcare Magic.I can understand your concern. Pneumonia is less likely to cause nose bleeding. Recurrent nose bleeding with coughing are commonly seen with sinusitis. So better to consult ENT doctor and get done clinical examination and CT scan of paranasal sinuses (PNS). Also get done chest x ray for pneumonia. If chest x ray is normal then no need to worry for pneumonia. You may also need endoscopic evaluation of sinuses if CT PNS is suggestive of infection or erosion.Don't worry, you will be alright with all these. Hope I have solved your query. I will be happy to help you further. Wish you good health. Thanks.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Thanks for your question on Healthcare Magic.I can understand your concern. Since you are taking warfarin (blood thinner), possibility of pulmonary embolism (PE) related pain is less likely.Possibility of musculoskeletal pain is more likely. So avoid heavyweight lifting and strenuous exercise. Avoid movements causing pain. Apply warm water pad on affected areas of chest and back. Take painkiller and muscle relaxant drugs like ibuprofen and thiocolchicoside. You will mostly improve with all these in 2-3 days. If not improving then consult doctor. Hope I have solved your query. I will be happy to help you further. Wish you good health. Thanks.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Thanks for your question on Healthcare Magic.I can understand your concern. In my opinion, you should take her to SGPGI, Lucknow and consult pulmonologist there.She needs bronchoscopy, BAL (bronchoalveolar lavage) analysis and TBLB (Trans bronchial lung biopsy).BAL analysis will identify the causative organism for pneumonia. TBLB is needed to rule out lung cancer. Don't worry, she will be alright. First diagnose her and then start appropriate treatment. Hope I have solved your query. I will be happy to help you further. Wishing good health to your mother. Thanks.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Thanks for your question on Healthcare Magic.I can understand your concern. HRCT thorax is done at radiology center. So ask your doctor about near by CT scan centers.Usually CT scan is not required for diagnosis of pneumonia.But in some cases if diagnosis is not confirmed or patient is not improving or we suspect TB or ILD (interstitial lung disease) then HRCT thorax is advised.Hope I have solved your query. I will be happy to help you further. Wishing good health to your mother. Thanks.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello Usually in such conditions we recommend Claritromycin twice orally for some days. Regards Dr.Jolanda
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: HelloAs you explain cefuroxime or the group of kinolones are the right choice of treatmentRegardsDr.Jolanda
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello Yes i agree with the treatment its ok continue it as the doctor gad prescribed it for you Regards Dr.Jolanda
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Low blood pressure can be a serious and life-threatening problem. Is her blood pressure normally a lot higher than this? If so, then I would suggest urgent evaluation by a physician. Infections can lead to a response called sepsis, and part of this may include a drop in blood pressure, which can be dangerous to her organs. Ensuring adequate hydration is important, as dehydration can cause low blood pressure as well. If she is acting confused, fatigued, or more tired than usual then I would suggest urgent medical evaluation. I hope she feels better.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Thanks for your question on Healthcare Magic.I can understand your concern. In my opinion, you should consult pediatric pulmonologist and get done bronchoscopy and BAL (bronchoalveolar lavage) analysis.BAL culture and sensitivity report will isolate the causative organism and guide about effective antibiotic treatment. So we can achieve faster recovery from this. Don't worry, with effective antibiotic treatment, she will be alright with 2 - 3 weeks treatment.Hope I have solved your query. I will be happy to help you further. Wishing good health to your daughter. Thanks.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello welcome to the health care magic Your concern is regarding pneumonia... In pneumonia cough,  dyspnea,  fever like presentation seen For its diagnosis chest x ray and sputum examination done Hope your concern solved Take care
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello It is hard to predict her clinical picture. Usually it depends on her heart situation and her treating doctor knows better. Regards Dr.Jolanda
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: HelloYes according to the history it might be pneumonia.Continue the current treatment.RegardsDr.Jolanda
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: HelloFirst do a chest x ray and some blood tests such as hemogram CRP ESR than it would be the proper treatment.RegardsDr.Jolanda
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: HelloIt depends on the age, commodities, immunity status and the cause why the pneumonia is come back again.RegardsDr.Jolanda
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: It will be better if he takes it for 10 days. In order to prevent from nausea and headache you cam give him combination of antacid with antiemetic i.e drugs like PANTOP D OR NUPENTA DSR OR GEMPRAZ DSR ONCE A DAY for the rest of the treatment period.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: HelloIf the situation has been very short under the water i do not think it might be aspiration pneumonia.RegardsDr.Jolanda
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: really crappy, tired, short tempered, headache are beacause of fever low grade and also pneumonia, evaluate yourself by CURB 65 score and pneumonia severity index and get you answer
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello dear Warm  welcome to Healthcaremagic.comI have evaluated your query for your husband in details  .*  This odor is in relation with underlying pneumonia causing pathogens  *  Must seek doctor`s opinion immediately , this is not normal .Wishing him fine recovery .Feel  free  to ask any further doubts .Regards  .
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Thanks for your question on Healthcare Magic.I can understand your concern. For diagnosis of pneumonia, chest x ray need to have infiltration.With normal chest x ray, pneumonia is not possible. Cough, congestion, crackles on auscultation are also seen with bronchitis. And bronchitis shows normal chest x ray too.So it is quite possible that you improve within antibiotic because antibiotics also work in bronchitis. So I don't think you are having pneumonia because your chest x ray is normal. Hope I have solved your query. I will be happy to help you further. Wish you good health. Thanks.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Thanks for your question on Healthcare Magic.I can understand your concern. If you are not having fever, cough or chest pain after completing antibiotics, you are probably cured from pneumonia. You are should also get done chest x ray. If recent chest x ray is showing normal results or resolving infiltration then you are cured from pneumonia. Hope I have solved your query. I will be happy to help you further. Wish you good health. Thanks.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Thanks for your question on Healthcare Magic.I can understand your concern. Repeated spiking temperatures (fever) in pneumonia patient is suggestive of nonresolving pneumonia.So better to consult pulmonologist and get done sputum culture and sensitivity report. Culture report will isolate the causative organism (if it is MRSA or other bacteria) and sensitivity report will guide about effective antibiotic treatment.He may need higher antibiotics on the basis of sensitivity report. By this, we can achieve speedy recovery. Hope I have solved your query. I will be happy to help you further. Wishing good health to your friend. Thanks.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Thanks for your question on Healthcare Magic.I can understand your concern. Possibility of post infectious bronchitis is more likely. Bronchitis (inflammation of airways) is common after pneumonia.And persistent dry cough and chest pain are mostly due to bronchitis.So better to consult pulmonologist and get done clinical examination of respiratory system and PFT (Pulmonary Function Test).PFT will not only diagnose bronchitis but it will also tell you about severity of the disease and treatment is based on severity only. You will mostly improve with inhaled bronchodilators (formoterol or salmeterol) and inhaled corticosteroid (ICS) (budesonide or fluticasone).Don't worry, you will be alright with all these. Hope I have solved your query. I will be happy to help you further. Wish you good health. Thanks.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello dearWarm  welcome to Healthcaremagic.comI have evaluated your query in details  .*  According to the narration it was seemingly the correct decision of     surgery  on part of the surgeon as well  as  patient , because  the      medicines  were  not  going to cure it at  all .Wishing you fine recovery .Feel free to ask any further  queries .Regards  .
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Thanks for your question on Healthcare Magic.I can understand your concern. Possibility of pneumonia is very less because you are not having chest pain, mucus expectoration and your fever is also gone.So drink plenty of fluids orally and keep yourself hydrated. Avoid oily and spicy food. Avoid junk food. Avoid hard to chew food. Take levocetrizine and paracetamol combination twice daily. Do warm water gargles and steam inhalation 4-5 times a day. Don't worry, you will be alright with all these. Hope I have solved your query. I will be happy to help you further. Wish you good health. Thanks.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello dear Jean , hiWarm  welcome to Healthcaremagic.comI have evaluated your query in details  .* The urine color is in relation with side effect of penicillin , not a part of pneumonia .*  Has to be   addressed  immediately  to  your  treating  doctor for  this    issue .Wishing you fine recovery .Welcome for any further  guidance .Regards  .
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Thanks for your concern. The dry cough basically has a few causes....First is Post nasal drip, second  Gastroesophageal reflux'heart burn', third Cough variant aasthma, forth Heart failure and finally Interstitial lung disease. Based on the information if you don't have a heart burn or reflux of food or sour brash into your mouth, you are having a cough variant asthma, make sure you do not have difficulty breathing. There is something called cardiac asthma, but it's not much of a likelihood given your young age.I advice you that you give up on smoking as it causes a multitude of problems and may well be related to the cough you've been having now called as 'smokers cough'.It's time that you stop smoking, avoid animal dancers, mites, pollens and any thing that would exacerbate the illness, make sure you don't have a heart burn, and if still the cough persists , meet a pulmo neologism and get a Pulmonary function test with methacholine challenge
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello Thank you for trusting HCM Dear what is the culture report suggestive?? Staphylococcus aureus pneumonia take more time to come under control, usually community acquired Staphylococcus infection may present with methicillne resistance(MRSA) , for this patient cases need to treated with vancomycine, and linezolid. Some patients also developed vancomycine resistant staph aureus (VRSA) infection, this infection very problematic to control. very few drugs like Quinupristin-dalfopristin and linezolid available to control VRSA. Please follow your doctor orders they will treat you in right way. I think I answered to your question if you have more questions please feel free to ask.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Thanks for your question on Healthcare Magic.I can understand your concern. Pneumonia with pregnancy is always critical.Antibiotics as early as possible is the treatment of choice for pneumonia. So better to immediately consult doctor and start antibiotics for pneumonia. Drink plenty of fluids orally and keep yourself hydrated. With prompt and appropriate treatment, pneumonia can be cured easily. Hope I have solved your query. I will be happy to help you further. Wish you good health. Thanks.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello dear , hiWelcome to Healthcaremagic.comI have evaluated your query thoroughly .*  The shoulder pain is in relation with the referred pain from the Phrenic  nerve irritation via pneumonia patch .Hope this clears your query .Wishing you fine recovery .Regards .
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Thanks for your question on Healthcare Magic.I can understand your concern. You should do following things to prevent recurrent pneumonia and improve your lung health. 1. Drink plenty of fluids orally and keep yourself hydrated.2. Do steam inhalation and warm water gargles 5-6 times a day.3. Take pneumococcal and influenza vaccine. Influenza vaccine should be taken annually while pneumococcal every five yearly.4. Avoid smoke, dust, fumes, chemicals etc and wear mask.5. Avoid unnecessary hospital visits.Don't worry, you will be alright with all these. Hope I have solved your query. I will be happy to help you further. Wish you good health. Thanks.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Thanks for your question on Healthcare Magic.I can understand your concern. Swimming pool water is full of organisms. So possibility of relapse of pneumonia is more likely because your symptoms, coughing, wheezing, chest pain are more suggestive of pneumonia. So consult your doctor and get done clinical examination of respiratory system and chest x ray. If chest x ray is showing fresh infiltrates then you will need another course of antibiotics, mucolytic and expectorant drugs. Avoid swimming for atleast 1 month.Hope I have solved your query. I will be happy to help you further. Wish you good health. Thanks.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello dear , hiWelcome  to Healthcaremagic.comI have evaluated your query thoroughly .*  The asthma is basically restriction of  airway due to  variety of reasons     which may be pneumonia or other .*  Amount of chances depends upon the  severity of pneumonia , host     factors , aggressiveness of  the  treatment  with body response .Hope this clears your query .Regards .
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Thanks for your question on Healthcare Magic.I can understand your concern. By your history and description, possibility of severe pneumonia with sepsis and MODS (multiple organ dysfunction syndrome) is more likely.Best treatment of pneumonia is identification of causative organism and then start appropriate treatment. So get done bronchoscopy and BAL (bronchoalveolar lavage) culture and sensitivity report.Also get done blood culture and sensitivity report. Culture report will isolate the causative organism and sensitivity report will guide about effective antibiotic treatment. By this we can achieve faster recovery. Hope I have solved your query. I will be happy to help you further. Wish you good health. Thanks.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Step short form for Streptococcus pneumonia. It is a microorganism which causes pneumonia or infection. With antibiotics it should get treated. It can be serious if not treated.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: listen carefully, you need full check up of lung and heart and some extent blood. i mention here some investigation if you prefer to do it1. cbc LFT, KFT, 2. SERUM IgE TOTAL3. XRAY  PA CHEST 4. ECG AND 2D ECHO5. IF POSSIBLE HRCT THORAX
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Thanks for your question on Healthcare Magic.I can understand your concern. In my opinion, you are mostly having bronchospasm which is causing this suffocating feeling. Pneumonia causes inflammation in airways and this in turn causes bronchospasm. So in my opinion, you should ask your doctor about starting inhaled bronchodilators like formoterol or salmeterol to relieve bronchospasm. Also avoid stress and tension, be relax and calm. Don't worry, you will be alright with all these. Hope I have solved your query. I will be happy to help you further. Wish you good health. Thanks.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: hi hope to satisfy youactually there is an viral infection there must be superimposed bacteria infection too.viral resolves with the passage of time on its own but to treat bacterial one we have to give antibiotics.for pneumonia you should give her azithromycin according to her weight 10 mg /kg wight once a day and for 5 days.plz mention the age n weight for next onwards.also give ibuprofen 10 mg /kg weight three times a day for 3 days n for nasal congestion give give arinac syrup twice a day for 7 days.hope she feels better soon.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Thanks for your question on Healthcare Magic.I can understand your concern. Pneumococcal vaccine is live attenuated vaccine. So it is contraindicated in active infections like pneumonia because it can flare up infection. So better not to take pneumococcal vaccine at present. Get complete cure from current pneumonia and then take pneumococcal vaccine. Don't worry if time period between two vaccine is more than 5 years.Hope I have solved your query. I will be happy to help you further. Wish you good health. Thanks.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Thanks for your question on Healthcare Magic.I can understand your concern. Yes, if we treat Fistula, drain pus and fluid and cure pneumonia, her breathing will be eased.Since she is bone marrow transplant patient, possibility of atypical bacterial infection is more likely because of immunosuppression.So get done bronchoscopy and BAL culture. Also get done fluid culture and sensitivity report. Culture report will isolate the causative organism and sensitivity report will guide about effective antibiotic treatment. By these, we can achieve faster recovery. Hope I have solved your query. I will be happy to help you further. Wishing good health to your sister. Thanks.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello dear , hiWarm welcome to Healthcaremagic.comI have evaluated your query thoroughly .*  Suggestions for better  recovery in this case -  Maintain hydration with plenty of liquids .-  Balanced nutritious diet .-  Avoid excess sugar , spicy , oily , non veg , chilled beverages .-  Gargles with salted lukewarm water added peppermint  oil  3  times / day -  Avoid exposure to dust / pollens , if necessary use triple layer face mask-  Continue antibiotics , decongestants  as  per  advise  of  the  doctor .-  ENT  visit  for  tonsillar  issue .Hope this will help you for  sure .Regards .
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Thanks for your question on Healthcare Magic.I can understand your concern. Yes, your symptoms are suggestive of pneumonia more. Pneumonia (lower respiratory tract infection) is common after upper respiratory tract infection (URTI).Worsening cough, chest congestion, rattling sound from chest, weakness, loss of appetite etc are characteristic symptoms of pneumonia. So better to consult pulmonologist and get done clinical examination of respiratory system and chest x ray (with abdominal shield).You should definitely start higher antibiotics to recover faster as you are pregnant. Hope I have solved your query. I will be happy to help you further. Wish you good health. Thanks.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Thanks for your question on Healthcare Magic.I can understand your concern. Pneumonia is lung infection. If not treated appropriately, it can cause generalized sepsis in the body.This sepsis can damage other vital organs like kidney, heart, liver etc. Since her chest x ray is worsening after 7 days of antibiotic and her kidneys are also-ran showing problem, possibility of severe pneumonia with sepsis is more likely.Best treatment of pneumonia is identification of causative pathogen and start appropriate treatment. For this bronchoscopy and BAL (bronchoalveolar lavage) is needed. BAL culture and sensitivity should be done. Culture report will isolate the causative organism and sensitivity report will guide about effective antibiotic treatment. So discuss about bronchoscopy and BAL with your doctor. Hope I have solved your query. I will be happy to help you further. Wishing good health to your girlfriend. Thanks.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello dearWarm welcome to Healthcaremagic.comI have evaluated your query thoroughly .*  This has different  reasons  as    -  residual effect of pneumonia  -  decreased lung  immunity  -  spasm of       bronchi or alveoli with secretions  -  others .*  Need  urgent pediatric consultation for further management .Wishing your angel fine recovery .Regards .
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello dearWarm welcome to Healthcaremagic.comI  have  evaluated your query in depth , I can understand your feelings for your mother .*  She is in advanced stage of the disease , as it must be now drug     resistant  TB by now with multiple relapses .*  You have to accept the condition and give her symptomatic supportive     treatment  as  per  the  narrations  , she is not going to be cured totally     from  this  stage  of  the  systemic  illness .Wishing her fine health ahead .Regards .
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello dearWarm welcome to Healthcaremagic.comI have evaluated your concern in depth .*  This indicates lung pathology giving nerve endings pain with hurting ribs    radiating to back and shoulder .*  If  not  carried  out  x-ray chest  with or without  CT thorax is a must for    proper  diagnosis and management  guidelines .Hope this clears your query .Regards .
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello dearWarm welcome to Healthcaremagic.comI have evaluated your query thoroughly .*  There are different  reasons  for this as    -  lung abscess -  effusion  -  cardiac  distress induced  -  lung hypoxia     due  to  altered  pulmonary pressure  -  anxiety  exacerbation  -  others .Hope this clears your query .Regards .
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello dearWarm welcome to Healthcaremagic.comI have evaluated your query thoroughly .*  The need of steroid is determined by the clinician taking into     considerations  many parameters .*  Steroids help to relieve mucosal  inflammation of the bronchi , gives     faster recovery , so under medical guidance a short course of steroid     to  be  consumed  has  no  harm in it .Hope this will help you for sure .Welcome for any further assistance .Regards .
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Thanks for your question on Healthcare Magic.I can understand your concern.Constant coughing and hypothermia (low body temperature) in pneumonia patient can be due to1. Worsening of underlying pneumonia2. BronchitisSo better to consult pulmonologist and get done clinical examination of respiratory system, chest x ray and PFT (Pulmonary Function Test).Yoi may need higher antibiotic and inhaled bronchodilators (formoterol or salmeterol).Don't worry, you will be alright with all these.Hope I have solved your query. I will be happy to help you further. Wish you good health. Thanks.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Thanks for your question on Healthcare Magic.I can understand your concern.Pneumonia can recur.So better to first rule out pneumonia for your symptoms.So get done chest x ray.If chest x ray is normal then no need to worry for pneumonia or other lung disease.Take simple painkiller like paracetamol or ibuprofen. Apply warm water pad on affected areas.You will mostly improve with all these.Hope I have solved your query. I will be happy to help you further. Wish you good health. Thanks.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Respected user , HiWarm welcome to Healthcaremagic.comI have gone through your concern in depth .*  Levofloxacin is best effective molecule for pneumonia and many intestine    bugs .*  Metronidazole  may be kept reserved on waiting for certain test reports      or clinically physician may not need  to  add to the drug cart according     to the evaluation and clinical experience .Hope this clears your doubt .Regards .
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Thanks for your question on Healthcare Magic.I can understand your concern.Yes, you should definitely consult another doctor.Pneumonia is lung infection and it should be treated promptly and correctly.And chest x ray is must for the diagnosis of pneumonia.So better to consult another doctor and get done chest x ray to rule out pneumonia.Hope I have solved your query. I will be happy to help you further. Wish you good health. Thanks.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Thanks for your question on Healthcare Magic.I can understand your concern.No need to worry for pneumonia as he is not having coughing.Coughing is first symptom of pneumonia.So pneumonia is unlikely in the absence of coughing.And 3 days antibiotic duration is too early to decide about effectiveness.You should give full 7 days course of amoxicillin.Fever was subsided so amoxicillin Island definitely working.Along within amoxicillin, give him plenty of fluids orally, fruits, juices etc for energy.Don't worry, he will be alright.Hope I have solved your query. I will be happy to help you further. Wish you good health. Thanks.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Thanks for your question on Healthcare Magic.I can understand your concern.Yes, possibility of pneumonia is more.Children don't show high grade fever sometimes.Vomiting can be seen in pneumonia. Chest congestion is classical symptom of pneumonia in children.So better to take her to pediatrician and get done clinical examination of respiratory system and chest x ray.She may need antibiotics and other supportive drugs.Hope I have solved your query. I will be happy to help you further. Wishing good health to your daughter. Thanks.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Thanks for your question on Healthcare Magic.I can understand your concern.You are having persistent lung opacity despite of antibiotic treatment.So possibility of these is very high. 1. Drug resistant infection2. MalignancySo better to first diagnose and then start appropriate treatment.Bronchoscopy and CT scan of thorax are advised in your case.Bronchoscopy will isolate the causative organism and guide about specific antibiotic therapy.CT scan will tell you if there is mass lesion present or not.Hope I have solved your query. I will be happy to help you further. Wish you good health. Thanks.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Thanks for your question on Healthcare Magic.I can understand your concern.Yes, you should definitely consult your doctor.Pneumonia spread by coughing. So you might have cought infection from your boyfriend 's grandmother. You are also a diabetic, so lung infections are very easy to affect you.So better to consult your doctor and get done clinical examination of respiratory system and chest x ray.If chest x ray is normal then no need to worry for pneumonia, take simple painkiller like paracetamol for your chest pain.Hope I have solved your query. I will be happy to help you further. Wish you good health. Thanks.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Thanks for your question on Healthcare Magic.I can understand your concern.You have given oral antibiotic for pneumonia.This itself suggests that you are had walking pneumonia (no serious type).Levofloxacin is broad spectrum antibiotic and usually sufficient for walking pneumonia.So if you are don't have fever or coughing at present and feel good then you can definitely fly. No harm in it.Hope I have solved your query. I will be happy to help you further. Wish you good health. Thanks.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Thanks for your question on Healthcare Magic.I can understand your concern.Pneumonia usually takes 2-3 weeks for complete recovery.Your oxygen requirement is decreasing. This is suggestive of recovery. So you will definitely be alright after 4 weeks. So get done repeat chest x ray to see how much pneumonia is recovered.Chest physiotherapy, deep breathing exercises, incentive spirometry are vital to achieve good lung functions after pneumonia.Don't worry, you will be alright.Hope I have solved your query. I will be happy to help you further. Wish you good health. Thanks.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Thanks for your question on Healthcare Magic.I can understand your concern.Yes, recurrent lung infections can directly diminish lung functions.Recurrent infections can also cause asthma, bronchitis and further deteriorate lung functions.Best way to prevent respiratory tract infection is vaccines.Give him pneumococcal and influenza vaccines.These vaccines will provide 80% protection. Give him fruits, multivitamin tablets and protein powder for high immunity.Hope I have solved your query. I will be happy to help you further. Wishing good health to your son. Thanks.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: HiAfter spme days of the proper treatment you will feel better again. Don't worry it takes ssometime to recover. Dr.Jolanda
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello Gigi !Coughing up blood with sputum (henoptysis) is a red flag sign .. meaning to say it definitely needs Medical attention . Considering you have had TB in the past there are many possibilities for your present episodes of hemoptysis.  It could me a bacterial infection or relapse of TB or post TB bronchiectasis (abnormal permanent dilation of your airways at few places which happens when they get damaged due to your past TB). Take a course of antibiotic as prescribed by your physician ,Consult with your physician  and discuss about taking drugs like tranexemic acid which reduce the bleeding tendency , cough suppressants . while sleeping, Lie on the side which was previously affected by TB and be on complete bed rest . Once your hemoptysis gets controlled go for sputum examination to check for TB bacilli , chest x ray and if needed HRCT thorax (to pick up bronchiectasis which can sometimes be not evident on x ray). Since u mentioned severe back pain , vascular abnormalities concerning  the descending aorta (the major blood vessel carrying blood from the heart)needs to be also considered  Treatment is to be decided based on the cause for your hemoptysis.Do review with your physician and get the necessary investigations done.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello! Just because you have previously had a pneumonia does not necessarily mean this time too You will be having it again. Since how long have you been having cough ? Are you having a dry cough or produce phlegm ? what's the colour of the phlegm ? last time you had pneumonia was it properly n completely treated ? Apart from cough what are your other complaints at present ? your cough can be due to inflammation of your throat lining or it can be something to do with your lungs like previous time.  Kindly get your checked by a physician with an open mind and go for a Chest X ray if necessary.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: primarily he suffering reflux disease which causes repeated aspiration and pneumonia so correction of underlying pathology will resolve pneumonia and as for concern about antibiotic and treatment of pneumonia use of antibiotics for prolong period can cause development of resistant organisms
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Thanks for your question on Healthcare Magic. I can understand your concern. Best treatment of pneumonia is identification of causative pathogen and start appropriate antibiotics. So get done sputum culture and sensitivity report. Culture report will isolate the causative organism and sensitivity report will guide about effective antibiotic treatment. So consult pulmonologist and discuss all these. Hope I have solved your query. I will be happy to help you further. Wish you good health. Thanks.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello dearWarm welcome to Healthcaremagic.comI have gone through your query thoroughly .*  X-ray result indicates infection of the lung with some sort of bacteria     giving  rise to pneumonia .*  Pneumonia  recovery  takes  time  depending upon the virulence of the    organisms , host immune  response and other co morbid conditions .*  If  your  symptom score has declined  from  the  initiation of the therapy    wait  for  further  progress , if  the  intensity  of  the symptoms  is  as    it  is  then  have  to  consider  the change  of  therapy  or  consultant .Hope this clears your doubt .Thanks .Regards .
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: It sound like your cousin has something called- Empyema. It is basically an abscess in the chest cavity. And the correct treatment for it is drainage - which was done appropriatley. But he should receive antibiotic treatment with coverage of both aerobic and anaerobic organisms. Usually specimens are send from the procedure to see which organisms grow and provide a more directed antibiotic coverage.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Thanks for your question on Healthcare Magic. I can understand your concern. In my opinion, her diarrhoea is mostly due to amoxicillin. Amoxicillin can cause diarrhea on second exposure. So you should stop amoxicillin. There are options for oral antibiotics other than amoxicillin like cefixime, levofloxacin, moxifloxacin etc. And left basal pneumonia means lung infection in lower lobe of left lung. So antibiotics are the mainstay of treatment. Hope I have solved your query. I will be happy to help you further. Wishing good health to your mother.Thanks.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Thanks for your question on Healthcare Magic. I can understand your concern. Radiological resolution takes 2-3 weeks in pneumonia. So it is possible that patient of pneumonia is improved symptomatically but still show pneumonia on chest x ray. So in my opinion, you should should waiting for 2 weeks more. Get done repeat chest x ray after 2 weeks.If chest x ray is showing pneumonia then go for CT thorax and bronchoscopy to rule out lung cancer, Tuberculosis, Fungal pneumonia. If xun4 ray is improving then no need to worry. Hope I have solved your query. I will be happy to help you further. Wishing good health to your mother. Thanks.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Thanks for your question on Healthcare Magic. I can understand your concern. Your symptoms are seen with both, bronchitis and pneumonia. And both of these them are common after upper respiratory tract infection (URTI - sinusitis). So better to consult pulmonologist and get done clinical examination of respiratory system, chest x ray and PFT (Pulmonary Function Test). Chest x ray is needed for the diagnosis of pneumonia. PFT is must for the diagnosis of bronchitis. Antibiotics are the mainstay of treatment for pneumonia. Inhaled bronchodilators and inhaled corticosteroid (ICS) are the mainstay of treatment for bronchitis. So first diagnose android then start appropriate treatment.. Hope I have solved your query. I will be happy to help you further. Wish you good health. Thanks.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Thanks for your question on Healthcare Magic. I can understand your concern. Small cell lung cancer is commonly caused by cigarette smoking. Actually cigarette smoke causes irritation to lung mucosa. Chronic irritation causes structural and genetic changes which leads to malignant nodule. This nodule grows with time and forms mass like lesion. Hope I have solved your query. I will be happy to help you further. Thanks.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Respected user , HiThanks for using Healthcaremagic.comI have evaluated your query thoroughly .*  Mechanism of pneumonia follows as   -  Susceptible pathogens in form of bacteria enters the respiratory tract      via  nose or throat ( air borne ) , settles  there in respective lung tissues      through aleveoli and bronchi  -  start manifestations in form of various symptoms  of bronchitis ,      effusion or others .*  Treatment  guidelines   -  Maintain hydration with plenty of liquids .  -  Balanced nutritious  diet .  -  Regular antibiotics , anti inflammatory , decongestants as per advise      by your doctor .  -  Regular walking , exercises ( deep breathing ) , YOGA .  -  Avoid smoking , alcohol .  -  Have patience , recovery time depends upon the causative organism ,      host response factors and type of treatment ( it may take days to       weeks ) .Hope this clears your query .Welcome  for  any  further  assistance .Regards .
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Respected user , HiThanks for using Healthcaremagic.comI have evaluated your query thoroughly .*  Recovery time of the pneumonia vary from days to weeks depending     upon    -  extent of pneumonia  -  associated  co morbid conditions  -  causative        organisms virulence  -  host immune response  -  type  of  treatment  - smoking consumption  -  activity level  -  exposure to noxious        substances as pollen or dust  -  diet  .*  So , to answer the question , lot many conditions have to be calculated     and  based upon that we can comment .*  One thing I  want to convey that it will be surely recovered with proper     line of management .Hope this clears your query .Welcome for further doubts .Regards .    of management .
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Thanks for your question on Healthcare Magic. I can understand your concern. Bronchiectesis is permanently damaged part of lung. So bacterial colonization is common in bronchiectesis. And this gives repeated pneumonia attacks. So best and permanent cure for this is surgical removal of bronchiectic part of lung. So consult Cardio thoracic surgeon and discuss about surgical removal. Another option is culture and sensitivity based treatment. Get done sputum culture and sensitivity report. Culture will identify the causative organism and sensitivity report will guide about effective antibiotic treatment. Hope I have solved your query. I will be happy to help you further. Wishing good health to your friend. Thanks.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Thanks for your question on Healthcare Magic. I can understand your concern. In my opinion, you need higher antibiotic,inhaled bronchodilators and inhaled corticosteroid (ICS) for your current symptoms. Constant coughing at night can be due to worsening of pneumonia or bronchitis. So consult pulmonologist and get done chest x ray and PFT (Pulmonary Function Test). Chest x ray is for pneumonia and PFT is for bronchitis. Don't worry, you will be alright with all these. Hope I have solved your query. I will be happy to help you further. Wish you good health. Thanks.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Respected user , hi Thanks for using Healthcaremagic.comI have evaluated your query thoroughly .* All symptoms are in relation with underlying lung condition giving rise to   broncho alveolar constrictions , pleura irritation with systemic    manifestations* As there is not much relief of oral medications given till now , I strongly   recommend to get hospitalised treatment & early better recovery through   IV antibiotics , bronchodilators, supportive nursing care Hope this clears your queryWelcome for any further assistance Regards .
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello,Your sonâ€™s respiratory rate is too high. Please take him to ER immediately and take a chest x-ray immediately.Hope I have answered your query. Let me know if I can assist you further.Regards,Dr. Siva Kumar Reddy
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello welcome to HCM. I have gone through your history. You have been adequately treated for your pneumonia and I suppose you don't have any symptoms of pneumonia like cough, fast breathing, fever, breathlessness. Since you have received intravenous plus 5 days of oral antibiotics, now you can resume about your exercise regime. As you say you had a non damaging heart attack, means that your heart pumping function is well preserved. So you must not have any issues with exercise. With every lung infection the lung capacity decreases by some percentage proportional to he severity of the infection. Hence along with your routine exercises you must also undergo breathing exercises with incentive spirometry, inhaling deeply through one nose holding your breath and exhaling fully from the other nose, meditation and yoga. This will help you to regain some of the lost lung capacity. You should also get vaccinated with influenza and pneumonia vaccines that include common strains which cause pneumonia Remember they don't protect you against all pneumonias but offer protection against common pneumonias.Regarding Naproxen too much of it may cause damage to your kidneys so I advice you decrease its usage and use it only when required rather than a daily basis.Wishing you good health. Regards
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Respected user, hi I evaluated whole long query in total details thoroughly .* Now only options left for you is holistic healing with herbs & other things.* Current respiratory details & status are not mentioned with symptoms to   figure out for the pneumonia, but for mental condition I can say that only   & only thing which can help you to any extent is   very deep meditation sessions on highly regular basis   2-3 hours of dedicated YOGA daily    which will give your inner soul & subcouncious mind the level of peace   you are lacking at present .Hope this helps you .Welcome for any further assistance .Thanks  for using Healthcaremagic.com & giving me an opportunity to assistWishing you a healthy life ahead .Regards dear take care.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Respected user, hi I evaluated your query thoroughly.* What is meant by '' there is no change'' in x-ray ? mean to convey that    the pneumonia is as it is in x-ray as before treatment ?   then in that case it is non-responsive treatment.* In addition to that your symptoms also show that you are not alright to    much extent .* Chest pain & cramps are in relation with underlying pneumonia, you are   telling that treatment is over but no it is not finished.@ Recommend to consult with all details of scanned reports , treatment     taken  till now , so that we can study the case in detail & make guidelines     for further perfect recovery .Hope this helps you.Welcome for any further assistance.Thanks for using Healthcaremagic.com & reviewing my answer thoroughly.Wishing you fine recovery from the same.Regards dear take care.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hey,Minimal linear atelectasis doesn't mean pneumonia of lung, but still if you are diagnosed as pneumonia then it's ok.And yes tiredness is expected for 4-5 days at least.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hey Brent,If you feeling low and drowsy with pneumonia then you must take appropriate antibiotics.If required might get admitted to get done i.v. treatment.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Respected user, hi it is unlikely to disseminate lung pathology to brain in your case.It may be existing condition in brain detected afterwards or occurrence with/ after the lung pathology.Hope this clears your query.Thanks for using Health care magic & giving me an opportunity to assist you.Regards dear take care.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Respected user, hi I evalauted your query thoroughly.Sorry to hear about the issue.*Prognosis depends on many factors - age - associated comorbid conditions   like heart attack / cv stroke / kidney malfunctions / diabetes - immunity  - haemoglobin level - body response to treatment - competency of doctors  - efficacy of molecules used in treatment & much more list not possible to  narrate whole here.*Considering all your narrations, her prognosis is guarded, not that much  good as normal person suffering from pneumonia recovering in days. - She may take very long time for recovery & may not recover also ( I pray   to God that doesn`t happen ) after your long jugglery with all ventilator   period. - I can suggest to see the progress of the patient on ventilator for 5-7 days   discuss with the consultant in details regarding this & then decide to    continue the treatment or wean her off from ventilator for resting her   sole in peace. Hope this clears your query. Thanks for using Health care magic & keeping trust in our medical services Regards
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello sir,Seeing at your history would like to know more about your case.Want to look at your chest x ray first.and if its definitely diagnosed pnemonia, then in case you could be right that it could be viral pneumonia.but you can't stamp it as viral from clear phlegm. Get done white blood counts which will be within normal limits in case of viral and high in case of bacterial pneumonia. Also get done Procalcitonin and CRP level of your blood. it will give you final idea.And as you were smoker phlegm might be due to Bronchiectesis or COPD. rule out that.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Do you have diagnosed it correctly ? Go for HRCT CHEST , or Bronchoscopy for same. take i.v. antibiotics and then oral. complete course of antibiotics. For costochondritis apply analgesics ointment on it along with systemic anti inflammatory drugs. Get done diagnosis proper. You will definitely able to work again.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: HiYes it might be but not completely.To be sure she should consult her doctor for further follow up.Wishes Dr.Jolanda
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: HiIf a patient have pneumonia he should have cough with or without sputum,probably chest pain and breathlessness,anorexia,fever.But the signs and symptoms varies from patient to patient.Take careDr.jolanda
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Walking pneumonia is a non-medical term to describe a mild case of pneumonia. It is usually called atypical pneumonia because the disease is different from more serious cases of pneumonia caused by typical bacteria. it is often the result of a lung infection from a bacterial microorganism called Mycoplasma pneumoniae and generally treated with antibiotics. Mild infections are often not treated because they tend to clear on their own. With treatment, most people begin to feel better within a few days.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Respected Sir, hi. Diagnosis of Pertussis is clinical usually,divided into 3 stages .1st stage (catarrhal) where runny nose, sneezing, low grade fever, occasional cough. 2nd stage (paroxysmal) bursts of coughing or numerous rapid coughs, difficult to expel thick mucus from airways in lungs , long respiratory effort with high-pitch breath sound , individual may have cyanosis with or without vomiting during severe attack, inbetween attacks, patient becomes normal.3rd stage is convalescent or recovery gradually from above all. overall period may range from 1-2 weeks to 10-12 weeks.  In which cases diagnosis is not certain or require confirmation *Culture of bacterium Bordetella pertusis from nasal secretions *PCR test identifying genetic material from the bacterium in nasal secretions. Hope this clears your query dear madam, thanks regards take care, bye, wishing you fast speedy recovery from the same.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hi and welcome in HCMAccording to the history this might be  a situation called *Nonresponding Pneumonia*It would be better to be hospitalized for further examinations like:CRPHemogramALT,ASTChest CT (if needed)ABGFor exploring better the situation and do the treatment in i/v route .If you have comorbidites they should be evaluated too.Sometimes when the other comorbidities are not well treated the pneumonia does not respond so well from the treatment.So please discuss with your doctor for the aboveRegardsDr.Jolanda
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Tingling in extremities may be a sign of peripheral neuropathy, wich is most of the cases caused by inflammatory injury to the nerves. Anti-TNF drugs, such as Humira, have been reported to be associated to this kind of injury, that can be potentialized when associated to steroids. You should visit your attending rheumathologist for physical evaluation and apropriate management.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Lung whiteout and loss of heart outline are findings of chest x-ray compatible with many abnormal conditions affecting the lungs, like pneumonia, pleural effusion, acute respiratory distress syndrome among others. In the actual setting, your father is already receiving treatment to his pneumonia. All the other possibilities are probably been considerated and adressed by CCU staff. Weaning from mechanical ventilation is sometimes challenging because many factors can impair patients evolution, like how long he's been in MV, his nutrition status, his cardiovascular performance and resolution of the cause that led him to MV in the first place.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Hello and thank you for asking in HCM I can understand your concern Don't worry so much. Your husband is under treatment for pneumonia according to the history and he has had fever several times.Now he feels better but he is not completely asymptomatic which means that the feeling he had might be due to an episode of temperature not so high .This shows that the treatment is doing well. But he has to be careful with the treatment to be correct as the doctor has prescribed ,no smoking and not to work in dust environment ,a lot of liquids too.Take careWish a fast recovery for your husband. Dr. Jolanda Pulmonologist
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: diabetes
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Take all precautions. Take all precautions possible to try to avoid catching Coronavirus. Wash your hands often with soap & water, avoid touching your eyes, nose & mouth, stay home as much as possible, cover your mouth & nose with tissue if you sneeze or cough, clean & disinfect  frequently touched surfaces often & if you have fever, cough and difficulty breathing seek medical care.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: diabetes
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Diabetes + Covid-19. Because you are a Type I diabetic it means that you are at greater risk for complications if you contract Covid-19. If you have had a sore throat for a few days that gets worse every day, and if you have a fever over 100F, call your General Physician. .
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: diabetes
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Diabetes + Covid-19. Have you been diagnosed as a Diabetic, or just someone with slightly elevated A1C? Reports are that diabetics, especially males, are at greater risk. Follow all precautions that have been posted all over the internet and have been printed in newspapers. If you have a sore throat and a fever, call your General Physician and follow his/her directions completely.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: diabetes
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Not at all. If you are a well controlled diabetic then you will be fine. You will have an equal risk of getting it. If you are poorly controlled then you are more at risk of it complicating. But boost your immunity and stay at home. Get online shopping. Keep bags outside and sterilize everything coming into your home - entire item. KEep using this forum for questions. :)
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: age
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Yes. VEry very important for you to stay in quarantine and not go and shop. Also make sure anything that comes into your house is sanitized. EVery single thing. Sanitize. KEep 2 m away from everyone and wear a buff or home made mask that covers your nose and mouth. Be safe. Be positive. We will get through this.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: No. The vaccines prevent bacterial pneumonia.  They have no effect on viral pneumonia.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: hypertension
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: In brief:   Contact Dr    Rather get hold of your regular GP and discuss over the telephone regarding this issue.   DO NOT STOP OR DO THIS ON YOUR OWN.  Would you like to video or text chat with me?
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: diabetes
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Depends-all factors. Type I diabetics can be more fragile when they have any type of infection unfortunately. If you are younger & do not smoke & do not have other chronic problems, your increased risk may be minimal.  Eating balanced diet, keeping glucose controlled, getting adequate exercise (including fresh air outdoors), & adequate sleep all should help protect you from severe consequences, but be very careful ! .
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: In brief:   One sign   On treatment for bacterial pneumonia, fever will usually decline within 2 days.    A follow up chest image may be indicated. If you would like to upload her CT and clinical information to an inbox consultation with HT, we can provide an opinion. Sometimes there is slow resolution of a pneumonia, particularly with underlying medical conditions. The test results should be back soon.   Would you like to video or text chat with me?
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: COVID-19? It sounds like your mom is in good hands. If she has COVID, they will know how to treat it. If the pneumonia is beleived to be bacterial, they will treat with antibiotics. There is no proved effective treatment for coronavirus itself. Ask her doctors if she is a candidate for remdesivir -- not proved effective but sometimes available on a "compassionate" basis for severely ill patients. Good luck.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: age
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Read our blog post. Household members should stay in another room or be separated from the quarantined as much as possible. They should use a separate bedroom and bathroom, if available. Prohibit visitors to the home. You and the quarantined should each wear a face mask if you are in the same room. (3/26/20)  Read  https://www.healthtap.com/blog/post/caregiver-guide-for-COVID19-spouses-partners-contacts.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: diabetes
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: In brief:   Diabetes   Type 1 diabetes may be an autoimmune disorder, but if well controlled one's immunity and ability to handle infections should be ok.   Poorly controlled diabetics, especially with complications of kidney disease and vascular disorders, degrees of dehydration and poor tissue status are at risk for infections partly because the skin barrier to pathogens is impaired. In my experience most type 1's do ok  Would you like to video or text chat with me?
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: diabetes
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: TAKE CARE. 1. Wash your hands2. Stay home as much as you can3. Control your glucose levels4. Meditate or search for breathing exercises.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: sex
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Sort of. If you are having sex with someone who has Covid-19 you are quite at risk of getting it.  High likelihood if kissing and having intercourse but it may not be transmitted through intercourse but the closeness in an intimate situation like that with someone who is infected gives a high likelihood of transmission.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: sex
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: In brief:   TRANSMISIÃ“N VIH   Solamente ciertos lÃ­quidos corporales â€”la sangre, el semen, el lÃ­quido preseminal, las secreciones rectales etc â€” de una persona que tiene el VIH pueden transmitir el virus.    Si ambos tienen la certeza con una prueba confirmatoria de que no estÃ¡n infectados y son monogamos no tienen por quÃ© contraerlo. Sin embargo tener relaciones sexuales sin protecciÃ³n pueden contraer otro ETS  Would you like to video or text chat with me?
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: diabetes
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Not well stablished. For now, it is known that having chronic disease, including diabetes (not specified type), increases the risk of death. However, the outbreak is so new that evidence is not enough robust to give a number yet. Anyway, It is recommendable to assume that you are at higher risk and strict protection should be taken.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: In brief:   No. It is not... yet   That new is based in a paper (https://journals.  plos.org/plospathogens/article?id=10.1371/journal.ppat.1006140) which says that inhibition of leukotrienes (which Singulair-Montelukast inhibits) in mice, not humans, had a protection effect against death caused by Influenza A virus pneumonia. Further research is needed to ensure that this works for influenza, and even more for ?SARS-CoV-2.  Would you like to video or text chat with me?
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: diabetes
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: In brief:   If you are dying   Everything is in motion and medical decisions are fluid, so you won't know until it happens.   That's because a healthy person under 50 won't die (has maybe half a percent chance of dying) from COVID-19, but a guy aged 70-80 has a 7-8% chance of dying from this... about the same as a non-elderly diabetic. That means the old guy and the diabetic both have about a 92-93% chance of NOT dying. (3/25/20)  Would you like to video or text chat with me?
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: diabetes
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: In brief:   Maybe/not   They estimate as many as 80% of those testing positive in the under 40 age group have minor or no symptoms.   Having a non respiratory chronic illness does not increase your risk substantially.  Would you like to video or text chat with me?
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: asthma
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Covid 19 testing . Hi at the moment it is only recommended that you test for COVID 19 if you have a close contact that has tested positive for the virus or have had recent international travel in the last 14 days. If your symptoms are worsening or your asthma is uncontrolled  you should call your GP rooms or attend your nearest emergency room.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: diabetes
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Might be more severe. People with diabetes can have more fragile immune systems with difficulty fighting infections, so if you contract coronavirus you might be at greater risk for breathing complications.  Any serious illness can affect blood sugar control in diabetics also. I recommend taking extra precautions to minimize contact with people so as to avoid contacting the virus.  .
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: age
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: CoVid. https://www.healthtap.com/blog/covid-19-care-guidelines/resources-for-managing-covid-19https://www.healthtap.com/blog/covid-19-care-guidelines/self-quarantine-guide.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: age
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Self-quarantine. Try self-quarantine for 14 days; call your health care provider if you start having symptoms to get instructions regarding testing, self-quarantine and possible hospitalization then follow through!
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: copd
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Try our other forum. You have posted on our free, public, informational forum, where doctors do not see patient charts nor give medical care. Try a private consultation where doctors can see you on video. Also, in the US certain medications (but not all) can be prescribed or temporarily refilled, depending on individual circumstances. Start over on your screen, click on Care, then Talk-to-Doctor. (Mar. 2020)
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: diabetes
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: In brief:   Concern   Diabetes if controlled well typically should not be an issue.   I realize there are some conflicting information, but I think the evidence shows that if diabetes controled your immune system still reacts appropriately and not an issue. Arrythmia in itself not and issue. Your age is 60 and that starts to be category of concern with 3% mortality rate.  If you do not smoke that is the key.   Would you like to video or text chat with me?
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: smoking
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Keep non smoking. If you have no exposure history to COVID 19, your cough is probably not infection. keep up the good work and do not smoke or vape.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: diabetes
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: In brief:   Appears as though   this was asked before? She should disrobe immediately upon entering the home, place clothes in laundry and then shower. You need to keep A1c as low as possible, do everything you can to support gut health and immunity and increase supplements that increase resistance to viruses.   Sleep apart... your call!  Would you like to video or text chat with me?
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: diabetes
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: In brief:   Probable   I know there is a study that shows concern for diabetics, however, this is one study and there are others that show no particular issue.   The data is clear that older, especially older than 70, multiple comorbid conditioins and smoking are critical problems. Although diabetic if it is controlled well it is likely your symptoms will be like most 38 year olds- mild.   Would you like to video or text chat with me?
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: asthma
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: In brief:   Fever/flu like sx   COVID-19 is typically associated with flu like symptoms, fever, dry cough and/or shortness of breath.   If your shortness of breath does not improve with Albuterol inhaler, please call your PCP right away. Stay home, rest, drink fluids, monitor your temperature and avoid environmental triggers such as smoke and dust.   Would you like to video or text chat with me?
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: diabetes
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: In brief:   High    diabetes -especially uncontrolled is a probem, if you are well controlled similar to rest of population, no one really spared so to speak, stay home, if you need to consult do so telephonically  Would you like to video or text chat with me?
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: asthma
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: In brief:   Symptoms   If you  are not having troubles breathing best to self-isolate.   Follow the following guidelines:  https://www.healthtap.com/blog/covid-19-care-guidelines/preventing-covid-19Probably worthwhile to first isolate yourself: Guidelines as follow:  https://www.healthtap.com/blog/covid-19-care-guidelines/self-quarantine-guideIf you are not having significant SOB COVID should be mild for you.   Would you like to video or text chat with me?
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: asthma
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Symptoms. Please call your General Physician and report your symptoms. They may want to see you, send you to be tested, or may give you other advice. Please call now before symptoms worsen.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: age
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: In brief:   Itching /congestion   With the itching could be seasonal allergies would consider Benadryl 1/2 to 1 tab at bedtime and Zyrtec during the day .   Itching  is pretty specific for allergies.  If worsens  or develops fever would seek medical attention for sinusitis versus viral  infection including coronavirus these days   but as stated itching  is pretty diagnostic of allergies.   Would you like to video or text chat with me?
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: smoking
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: In brief:   Do you have access     If you have access to testing you can be tested, more importantly have you had contact with someone who is postive htat you know, have you travelled?Do you have a fever?  Would you like to video or text chat with me?
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: smoking
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: In brief:   Don't worry    your symptoms are unlikely related to corvid 19, and rather to change of season and smoking cessationtry to use a saline nasal spray and Otrivin nasal spray at least 4-5 times a day don't use Otrivin longer than 10 days  Would you like to video or text chat with me?
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: sex
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: In brief:   Cervix trauma   One technique is to have your partner only penetrate your vagina half way to avoid trauma to the cervix.   You and your partner can still have enough stimulation and pleasure this way.  Would you like to video or text chat with me?
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: In brief:   It could    There is not enough scientific info to confirm it.    Most of the online new was based on French report.It could be combination of speculations because virus enters lung through ACE2 receptor and also ibuprofens NASiD  and virus can effects the kidney. https://www.npr.org/sections/health-shots/2020/03/18/818026613/advice-from-france-to-avoid-ibuprofen-for-covid-19-leaves-experts-baffledThx  Would you like to video or text chat with me?
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: diabetes
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: In brief:   Death   At 38 your risk of death from the virus is low.    If you diabetes is controlled you should not have particularly higher risk. Poorly controlled diabetes would make a difference.   Would you like to video or text chat with me?
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: diabetes
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Death. At your age the risk of death is the following:  0.1â€“0.2. If your diabetes is controlled your risk should not be markedly worse. Make sure you follow appropriate gudelines. Neve a guarantee, but your risk of serious problem is still pretty low. .
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: asthma
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Get meds refilled. With the COVID-19 pandemic, people with chronic conditions or even intermittent conditions should get their meds refilled in case pharmacy services close down. For asthma patients, they should refill their inhalers. Some use only an urgent "rescue" inhaler like albuterol, while others also use "preventive" inhalers like fluticasone. It's best to keep both on hand. If symptoms go bad, it's ER time.
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: diabetes
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Good question. Awareness and precautions are important, but your wife plays a valuable role for those who have contracted the disease. She will be at higher risk than the general population and we are seeing HCPs contracting Covid-19. There is no one correct answer to this question because situations vary. Best option is for your wife to discuss this with her employer and take precautions. Good luck!
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: diabetes
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Isolation. . The virus is spread by respiratory route,  it can live on surfaces for up,to 72 hours. SO:Social isolation (keep 6 feet from others)Wear disposable,gloves when coming in contact with surfaces outside your home for several weeksStay healthy, eat right, get exercise, proper sleepDiscuss your fears with others to get a realistic view of this illness and itâ€™s risks.Donâ€™t panic..
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: diabetes
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Diabetes. My answer would be controlled or not. Type 1 or 2 if managed well and treated can still maintain good immunity. If either are out of control then infections of any type more likely. .
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: diabetes
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: In brief:   Immunocompromised    body is busy dealing with diabetes, not as much resiliancy remaining to fight viral symptoms, and subsequent opportunistic infections  Would you like to video or text chat with me?
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: diabetes
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: Coronavirus. Stay calm. Most people with coronavirus infection only get mild respiratory symptoms, especially among younger patients. Diabetes and use of ACEI or ARB may increase your risk of infection. Practicing common sense of prevention is critical during this outbreak crisis. Avoid risk exposure, wash hand, wear mask as needed. Get tested if you develop symptoms. Effect drugs are coming. .
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: asthma
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: In brief:   Check with PCP.   Data emerging from preliminary studies in France suggest a decades old medicine, chloroquine may be useful as a preventative drug.   It has been used to prevent malaria for decades & manufactures in the US have announced they are increasing production to meet an expected demand. Your status & what they are doing in your country should be answered by your doc.  Would you like to video or text chat with me?
+<|endoftext|>
+<|startoftext|>
+[CONDITION]: pneumonia
+[PROMPT]: Provide a COVID-19-specific health recommendation.
+[RECOMMENDATION]: In brief:   Coronavirus,   COVID-19 has high affinity to the lung, causing viral pneumonia.   Fortunately, most people get only mild respiratory symptoms. Those who have high risks (age over 65, chronic diseases) tend to get pneumonia and complications. The most important way to prevent the complications is not to get infection, practice common sense of prevention. If you catch the infection, start early treatment.  Would you like to video or text chat with me?
+<|endoftext|>
