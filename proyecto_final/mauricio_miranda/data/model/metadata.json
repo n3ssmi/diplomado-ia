@@ -1,0 +1,9 @@
+{
+    "keras_version": "3.8.0",
+    "keras_hub_version": "0.20.0",
+    "parameter_count": 1001190528,
+    "date_saved": "2025-04-25@22:38:44",
+    "tasks": [
+        "CausalLM"
+    ]
+}
