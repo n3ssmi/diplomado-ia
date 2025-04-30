@@ -1,0 +1,11 @@
+Porque:
+Tipo de desviación	Interpretación fonética	Sugerencia en lenguaje natural
+F1 < promedio	Boca muy cerrada	“Abrí un poco más la boca”
+F1 > promedio	Boca muy abierta	“Cerrá un poco la boca”
+F2 < promedio	Lengua muy atrás	“Empujá la lengua hacia adelante”
+F2 > promedio	Lengua muy adelante	“Relajá la lengua hacia atrás”
+
+
+Links a los modelos 
+https://drive.google.com/file/d/1-EY60Xp0j00CwsVA10NLXPbf5qsXPx-G/view?usp=drive_link
+https://drive.google.com/file/d/109Ius91DB-QGaGv21jpoWSObJ91RPs_L/view?usp=drive_link

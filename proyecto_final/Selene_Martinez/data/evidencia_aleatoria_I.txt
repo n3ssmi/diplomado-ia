@@ -1,0 +1,160 @@
+Prueba 1:
+  Vocal: uh
+  F1 Promedio: 637 Hz
+  F2 Promedio: 2253 Hz
+  Palabra: bet
+  Score F1: 100.00
+  Score F2: 100.00
+  Mean Score: 100.00
+  Temperatura: 0.71
+  Prompt:
+The vowel /ʌ/ was pronounced with F1=637Hz and F2=2253Hz. For this vowel, the expected F1 value is 500Hz. The practiced word was 'bet'. Provide a specific suggestion to correct the F1 value.
+Response:
+  
+The vowel /ʌ/ was pronounced with F1=637Hz and F2=2253Hz. For this vowel, the expected F1 value is 500Hz. The practiced word was 'bet'. Provide a specific suggestion to correct the F1 value.
+Response: ʌ/. Intenta relajar la mandíbula o abrir un poco menos la boca. El valor de F2 de 1283Hz está dentro del rango esperado para /ʌ/. Keep practicing the word and you'll improve quickly. 💪� vocal ʌ/.
+----------------------------------------
+Prueba 2:
+  Vocal: uh
+  F1 Promedio: 615 Hz
+  F2 Promedio: 2011 Hz
+  Palabra: bit
+  Score F1: 100.00
+  Score F2: 100.00
+  Mean Score: 100.00
+  Temperatura: 0.33
+  Prompt:
+The vowel /ʌ/ was pronounced with F1=615Hz and F2=2011Hz. For this vowel, the expected F1 value is 500Hz. The practiced word was 'bit'. Provide a specific suggestion to correct the F1 value.
+Response:
+  
+The vowel /ʌ/ was pronounced with F1=615Hz and F2=2011Hz. For this vowel, the expected F1 value is 500Hz. The practiced word was 'bit'. Provide a specific suggestion to correct the F1 value.
+Response:ʌ/. Intenta relajar la mandíbula o abrir un poco menos la boca. El valor de F2 de 1287Hz está dentro del rango esperado para /ʌ/. Keep practicing the word and you'll improve quickly. 💪/. 💪/. �
+----------------------------------------
+Prueba 3:
+  Vocal: ae
+  F1 Promedio: 604 Hz
+  F2 Promedio: 2120 Hz
+  Palabra: boot
+  Score F1: 100.00
+  Score F2: 100.00
+  Mean Score: 100.00
+  Temperatura: 0.89
+  Prompt:
+The vowel /æ/ was pronounced with F1=604Hz and F2=2120Hz. For this vowel, the expected F1 value is 500Hz. The practiced word was 'boot'. Provide a specific suggestion to correct the F1 value.
+Response:
+  
+The vowel /æ/ was pronounced with F1=604Hz and F2=2120Hz. For this vowel, the expected F1 value is 500Hz. The practiced word was 'boot'. Provide a specific suggestion to correct the F1 value.
+Response: æ fue pronunciada con F1=427-483Hz and F2=2034-2365Hz. Los valores esperados son F1=2034-2365Hz y F2=1200-1426Hz ʌ/. Intenta mover la lengua ligeramente hacia adelante
+----------------------------------------
+Prueba 4:
+  Vocal: uh
+  F1 Promedio: 636 Hz
+  F2 Promedio: 2002 Hz
+  Palabra: boot
+  Score F1: 100.00
+  Score F2: 100.00
+  Mean Score: 100.00
+  Temperatura: 0.86
+  Prompt:
+The vowel /ʌ/ was pronounced with F1=636Hz and F2=2002Hz. For this vowel, the expected F1 value is 500Hz. The practiced word was 'boot'. Provide a specific suggestion to correct the F1 value.
+Response:
+  
+The vowel /ʌ/ was pronounced with F1=636Hz and F2=2002Hz. For this vowel, the expected F1 value is 500Hz. The practiced word was 'boot'. Provide a specific suggestion to correct the F1 value.
+Response:ʌ/. Intenta relajar la mandíbula o abrir un poco menos la boca. El valor de F2=1742Hz es alto para /ʌ/. Intenta llevar la lengua hacia atrás o relajarla. Keep practicing the word and you'll improve
+----------------------------------------
+Prueba 5:
+  Vocal: ae
+  F1 Promedio: 594 Hz
+  F2 Promedio: 2177 Hz
+  Palabra: bought
+  Score F1: 100.00
+  Score F2: 100.00
+  Mean Score: 100.00
+  Temperatura: 0.41
+  Prompt:
+The vowel /æ/ was pronounced with F1=594Hz and F2=2177Hz. For this vowel, the expected F1 value is 500Hz. The practiced word was 'bought'. Provide a specific suggestion to correct the F1 value.
+Response:
+  
+The vowel /æ/ was pronounced with F1=594Hz and F2=2177Hz. For this vowel, the expected F1 value is 500Hz. The practiced word was 'bought'. Provide a specific suggestion to correct the F1 value.
+Response: æ fue pronunciada con F1=588-669Hz y F2=1952-2349Hz ʌ/. Intenta mover la lengua ligeramente hacia adelante. Keep practicing the word and you'll improve quickly. 💪��/. 💪 fue pronunciada con F
+----------------------------------------
+Prueba 6:
+  Vocal: ae
+  F1 Promedio: 600 Hz
+  F2 Promedio: 1955 Hz
+  Palabra: boat
+  Score F1: 100.00
+  Score F2: 100.00
+  Mean Score: 100.00
+  Temperatura: 0.63
+  Prompt:
+The vowel /æ/ was pronounced with F1=600Hz and F2=1955Hz. For this vowel, the expected F1 value is 500Hz. The practiced word was 'boat'. Provide a specific suggestion to correct the F1 value.
+Response:
+  
+The vowel /æ/ was pronounced with F1=600Hz and F2=1955Hz. For this vowel, the expected F1 value is 500Hz. The practiced word was 'boat'. Provide a specific suggestion to correct the F1 value.
+Response: æ fue pronunciada con F1=427-483Hz and F2=2034-2365Hz. Los valores esperados son F1=2034-2365Hz y F2=1200-1426Hz ɪ fue pronunciada con F1=427-483Hz y F2=14
+----------------------------------------
+Prueba 7:
+  Vocal: uh
+  F1 Promedio: 598 Hz
+  F2 Promedio: 2243 Hz
+  Palabra: bout
+  Score F1: 100.00
+  Score F2: 100.00
+  Mean Score: 100.00
+  Temperatura: 0.91
+  Prompt:
+The vowel /ʌ/ was pronounced with F1=598Hz and F2=2243Hz. For this vowel, the expected F1 value is 500Hz. The practiced word was 'bout'. Provide a specific suggestion to correct the F1 value.
+Response:
+  
+The vowel /ʌ/ was pronounced with F1=598Hz and F2=2243Hz. For this vowel, the expected F1 value is 500Hz. The practiced word was 'bout'. Provide a specific suggestion to correct the F1 value.
+Response:ʌ/. Intenta relajar la mandíbula o abrir un poco menos la boca. El valor de F2 de 2507Hz es alto para /ʌ/. Intenta llevar la lengua hacia atrás o relajarla. Keep practicing the word and you'll improve
+----------------------------------------
+Prueba 8:
+  Vocal: ae
+  F1 Promedio: 651 Hz
+  F2 Promedio: 2183 Hz
+  Palabra: cat
+  Score F1: 100.00
+  Score F2: 100.00
+  Mean Score: 100.00
+  Temperatura: 0.41
+  Prompt:
+The vowel /æ/ was pronounced with F1=651Hz and F2=2183Hz. For this vowel, the expected F1 value is 500Hz. The practiced word was 'cat'. Provide a specific suggestion to correct the F1 value.
+Response:
+  
+The vowel /æ/ was pronounced with F1=651Hz and F2=2183Hz. For this vowel, the expected F1 value is 500Hz. The practiced word was 'cat'. Provide a specific suggestion to correct the F1 value.
+Response: ʌ/. Intenta relajar la mandíbula o abrir un poco menos la boca. Keep practicing the word and you'll improve quickly. 💪� 💪 💪 💪 💪 💪 💪 💪 💪 💪 💪
+----------------------------------------
+Prueba 9:
+  Vocal: ih
+  F1 Promedio: 664 Hz
+  F2 Promedio: 2171 Hz
+  Palabra: bout
+  Score F1: 100.00
+  Score F2: 100.00
+  Mean Score: 100.00
+  Temperatura: 0.51
+  Prompt:
+The vowel /ɪ/ was pronounced with F1=664Hz and F2=2171Hz. For this vowel, the expected F1 value is 500Hz. The practiced word was 'bout'. Provide a specific suggestion to correct the F1 value.
+Response:
+  
+The vowel /ɪ/ was pronounced with F1=664Hz and F2=2171Hz. For this vowel, the expected F1 value is 500Hz. The practiced word was 'bout'. Provide a specific suggestion to correct the F1 value.
+Response: æ fue pronunciada con F1=427-483Hz and F2=2034-2365Hz. Los valores esperados son F1=2034-2365Hz y F2=1200-1426Hz ɪ/. Intenta mover la lengua ligeramente hacia adelante
+----------------------------------------
+Prueba 10:
+  Vocal: ae
+  F1 Promedio: 611 Hz
+  F2 Promedio: 2302 Hz
+  Palabra: cot
+  Score F1: 100.00
+  Score F2: 100.00
+  Mean Score: 100.00
+  Temperatura: 0.46
+  Prompt:
+The vowel /æ/ was pronounced with F1=611Hz and F2=2302Hz. For this vowel, the expected F1 value is 500Hz. The practiced word was 'cot'. Provide a specific suggestion to correct the F1 value.
+Response:
+  
+The vowel /æ/ was pronounced with F1=611Hz and F2=2302Hz. For this vowel, the expected F1 value is 500Hz. The practiced word was 'cot'. Provide a specific suggestion to correct the F1 value.
+Response: El valor de F1=427-483Hz y F2=2034-2365Hz ʌ/. Intenta llevar la lengua hacia atrás o relajarla. Keep practicing the word and you'll improve quickly. 💪��/. 💪 💪 💪 �
+----------------------------------------
