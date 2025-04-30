@@ -1,0 +1,124 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    display: flex;
+    min-height: 100vh;
+    background-color: #f4f4f4;
+}
+
+.container {
+    display: flex;
+    flex-grow: 1;
+}
+
+.panel {
+    padding: 20px;
+    box-sizing: border-box;
+    overflow-y: auto; /* Allow scrolling if content overflows */
+}
+
+.left-panel {
+    flex: 0 0 300px; /* Fixed width for left panel */
+    background-color: #e9e9e9;
+    border-right: 1px solid #ccc;
+    display: flex;
+    flex-direction: column;
+    gap: 20px; /* Spacing between sections */
+}
+
+.right-panel {
+    flex-grow: 1; /* Takes remaining space */
+    display: flex; /* To center plot div if needed */
+    align-items: center;
+    justify-content: center;
+    background-color: #fff;
+}
+
+#plot {
+    width: 95%;
+    height: 95%;
+    min-height: 400px; /* Ensure plot has some minimum height */
+}
+
+.control-section {
+    border: 1px solid #ddd;
+    padding: 15px;
+    border-radius: 5px;
+    background-color: #fff;
+}
+
+.control-section h2 {
+    margin-top: 0;
+    font-size: 1.1em;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+input[type="file"],
+input[type="text"],
+button {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+input[type="text"] {
+     margin-bottom: 5px; /* Less margin below text input */
+}
+
+
+button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+button:disabled {
+    background-color: #cccccc;
+    cursor: not-allowed;
+}
+
+
+#status {
+    margin-top: 10px;
+    font-style: italic;
+    color: #555;
+    max-height: 100px; /* Limit status height */
+    overflow-y: auto; /* Scroll if status messages get long */
+    background-color: #f8f8f8;
+    padding: 5px;
+    border-radius: 3px;
+}
+
+#arithmetic-result {
+    margin-top: 5px;
+    font-weight: normal; /* Override default strong */
+}
+#arithmetic-result strong {
+     font-weight: bold;
+     color: #0056b3;
+}
+
+#current-dim {
+    font-size: 0.9em;
+    color: #666;
+    margin-left: 10px;
+}
+
+/* Optional: Style for highlighted points (applied via Plotly trace) */
+/* No specific CSS needed here as Plotly handles marker styles */
