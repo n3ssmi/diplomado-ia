@@ -1,0 +1,41 @@
+{
+  "web-service": {
+    "description": "Pol\u00edticas para servicios web",
+    "actions": {
+      "memory_leak_restart": {
+        "description": "Reinicia el servicio para resolver fuga de memoria",
+        "remediation": {
+          "type": "command",
+          "command": "echo Simulando reinicio para ${service_id}"
+        },
+        "conditions": {
+          "metrics": {
+            "memory_usage": "> 70",
+            "gc_collection_time": "> 300"
+          },
+          "anomaly_score": "> 0.6"
+        },
+        "priority": "high"
+      }
+    }
+  },
+  "generic_web_service": {
+    "description": "Pol\u00edticas gen\u00e9ricas para servicios web",
+    "actions": {
+      "memory_restart": {
+        "description": "Reinicia el servicio para resolver problemas de memoria",
+        "remediation": {
+          "type": "command",
+          "command": "echo Simulando reinicio para ${service_id}"
+        },
+        "conditions": {
+          "metrics": {
+            "memory_usage": "> 80"
+          },
+          "anomaly_score": "> 0.6"
+        },
+        "priority": "high"
+      }
+    }
+  }
+}
